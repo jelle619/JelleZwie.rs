@@ -1,0 +1,82 @@
+/*Initial*/
+* {
+  user-select: none;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+.code {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+/*Body*/
+#header {
+  height: 100vh;
+  width: 100%;
+  background-image: url("images/hero.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#header h1 {
+  backdrop-filter: blur(20px) saturate(130%) brightness(300%);
+  color: rgba(255, 255, 255, 0.3);
+  font-size: calc(75px + 5vw);
+  margin: 0;
+}
+
+#header h1:after {
+  content: " Zwiers";
+  white-space: pre;
+}
+
+@media (max-width:750px) {
+  #header h1:after {
+    content: " Z.";
+    white-space: pre;
+  }
+}
+
+@media (max-width:450px) {
+  #header h1:after {
+    content: none;
+    white-space: pre;
+  }
+}
+
+#github > div {
+  height: 104
+  width: 100%;
+  overflow-x: auto;
+  direction: rtl;
+}
+
+#github > div > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Compatibility*/
+
+/*Keyframes*/
+@keyframes fade {
+  0% {opacity: 0;}
+  20% {opacity: 1;}
+  80% {opacity: 1;}
+  100% {opacity: 0;}
+}
