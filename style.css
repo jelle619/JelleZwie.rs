@@ -9,16 +9,42 @@ body {
   padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p, span {
+h1, h2, h3, h4, h5, h6, a, p, span, table {
   font-family: 'Ubuntu', sans-serif;
-  text-align: center;
+}
+
+a:link, a:visited {
+  color: #149dcc;
+  text-decoration: none;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 500px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #eeeeee;
 }
 
 .code {
   font-family: 'Ubuntu Mono', monospace;
 }
 
+body > div {
+  margin: 50px 10vw 50px 10vw;
+}
+
 /*Body*/
+
 #header {
   height: 100vh;
   width: 100%;
@@ -30,6 +56,8 @@ h1, h2, h3, h4, h5, h6, p, span {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
+  margin: 0;
 }
 
 #header h1 {
@@ -61,6 +89,7 @@ h1, h2, h3, h4, h5, h6, p, span {
 #github > div {
   height: 104
   width: 100%;
+  max-width: 702px;
   overflow-x: auto;
   direction: rtl;
 }
