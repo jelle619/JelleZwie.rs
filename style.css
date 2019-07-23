@@ -61,7 +61,7 @@ body > div {
 }
 
 #header h1 {
-  backdrop-filter: blur(20px) saturate(130%) brightness(300%);
+  /*backdrop-filter: blur(20px) saturate(130%) brightness(300%);*/
   color: rgba(255, 255, 255, 0.3);
   font-size: calc(75px + 5vw);
   margin: 0;
@@ -101,6 +101,8 @@ body > div {
 }
 
 /*Compatibility*/
+@supports not (backdrop-filter: blur(0px)) {
+}
 
 /*Keyframes*/
 @keyframes fade {
