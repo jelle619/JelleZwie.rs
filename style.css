@@ -1,23 +1,28 @@
 /*Initial*/
-* {
-  user-select: none;
-  scroll-behavior: smooth;
-}
-
 body {
   margin: 0;
   padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, a, p, span, table {
-  font-family: 'Ubuntu', sans-serif;
+/*Document-wide*/
+h1, h2, h3, h4, h5, h6, p, a, span, table {
+  font-family: 'Ubuntu', sans-serif; /*Make the site use the Ubuntu font*/
+}
+
+h1, h2, h3. h4, h5, h6 {
+}
+
+p {
 }
 
 a:link, a:visited {
   color: #149dcc;
   text-decoration: none;
+  scroll-behavior: smooth;
 }
 
+span {
+}
 
 table {
   border-collapse: collapse;
@@ -61,7 +66,7 @@ body > div {
 }
 
 #header h1 {
-  /*backdrop-filter: blur(20px) saturate(130%) brightness(300%);*/
+  backdrop-filter: blur(20px) saturate(130%) brightness(300%);
   color: rgba(255, 255, 255, 0.3);
   font-size: calc(75px + 5vw);
   margin: 0;
@@ -101,17 +106,68 @@ body > div {
 }
 
 /*Compatibility*/
+#header {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+#header h1{
+  -webkit-backdrop-filter: blur(20px) saturate(130%) brightness(300%);
+}
+
+@supports (not (backdrop-filter: blur(20px) saturate(130%) brightness(300%))) or (not (-webkit-backdrop-filter: blur(20px) saturate(130%) brightness(300%))) {
+  #header h1 {
+    color: rgba(255,255,255,0.7)
+  }
+}
+
 #github > div {
   -webkit-overflow-scrolling: touch;
 }
 
-@supports not (backdrop-filter: blur(0px)) {
-}
+/* Ripple In
 
-/*Keyframes*/
-@keyframes fade {
-  0% {opacity: 0;}
-  20% {opacity: 1;}
-  80% {opacity: 1;}
-  100% {opacity: 0;}
+@-webkit-keyframes hvr-ripple-in {
+  100% {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+  }
 }
+@keyframes hvr-ripple-in {
+  100% {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+.hvr-ripple-in {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+}
+.hvr-ripple-in:before {
+  content: '';
+  position: absolute;
+  border: #e1e1e1 solid 4px;
+  top: -12px;
+  right: -12px;
+  bottom: -12px;
+  left: -12px;
+  opacity: 0;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+}
+.hvr-ripple-in:hover:before, .hvr-ripple-in:focus:before, .hvr-ripple-in:active:before {
+  -webkit-animation-name: hvr-ripple-in;
+  animation-name: hvr-ripple-in;
+}
+*/
