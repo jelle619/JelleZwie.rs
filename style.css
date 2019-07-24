@@ -35,7 +35,7 @@ tr:nth-child(even) {
   background-color: #eeeeee;
 }
 
-.code {
+code {
   font-family: 'Ubuntu Mono', monospace;
 }
 
@@ -101,6 +101,10 @@ body > div {
 }
 
 /*Compatibility*/
+#github > div {
+  -webkit-overflow-scrolling: touch;
+}
+
 @supports not (backdrop-filter: blur(0px)) {
 }
 
