@@ -110,19 +110,19 @@ body > div {
 }
 
 #contact fieldset:first-child input {
-  width: 92%;
+  width: calc(100% - 20px);
   max-width: 250px;
   margin-bottom: 1em;
 }
 
 #contact input:not([type="submit"]) {
-  width: 92%;
+  width: calc(100% - 20px);
   max-width: 500px;
   margin-bottom: 1em;
 }
 
 #contact textarea {
-  width: 98%;
+  width: calc(100% - 20px);
   margin-bottom: 1em;
   resize: none;
 }
