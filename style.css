@@ -5,8 +5,8 @@ body {
 }
 
 /*Document-wide*/
-h1, h2, h3, h4, h5, h6, p, a, span, table {
-  font-family: 'Ubuntu', sans-serif; /*Make the site use the Ubuntu font*/
+h1, h2, h3, h4, h5, h6, p, a, span, table, form {
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h1, h2, h3. h4, h5, h6 {
@@ -44,12 +44,16 @@ code {
   font-family: 'Ubuntu Mono', monospace;
 }
 
+::placeholder {
+   color: grey;
+   opacity: 1;
+}
+
 body > div {
   margin: 50px 10vw 50px 10vw;
 }
 
 /*Body*/
-
 #header {
   height: 100vh;
   width: 100%;
@@ -91,6 +95,8 @@ body > div {
   }
 }
 
+#dragonprojects {}
+
 #github > div {
   height: 104
   width: 100%;
@@ -105,25 +111,73 @@ body > div {
   margin-right: auto;
 }
 
+#contact fieldset {
+  border-radius: 5px;
+}
+
+#contact fieldset:first-child input {
+  width: 92%;
+  max-width: 250px;
+  margin-bottom: 1em;
+}
+
+#contact input:not([type="submit"]) {
+  width: 92%;
+  max-width: 500px;
+  margin-bottom: 1em;
+}
+
+#contact textarea {
+  width: 98%;
+  margin-bottom: 1em;
+  resize: none;
+}
+
+#contact input, #contact textarea {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  /*Experimental*/
+  font-size: 0.9em;
+  padding: 7px 8px 7px 8px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+}
+
+#contact input[type="submit"]{
+  font-weight: 700;
+}
+
+#footer {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding: 25px 10vw 25px 10vw;
+  background-color: #2f3338;
+}
+
+#footer p {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#footer div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#footer img {
+  display: inline-block;
+  margin: 5px;
+}
+
 /*Compatibility*/
-#header {
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-}
-
-#header h1{
-  -webkit-backdrop-filter: blur(20px) saturate(130%) brightness(300%);
-}
-
-@supports (not (backdrop-filter: blur(20px) saturate(130%) brightness(300%))) or (not (-webkit-backdrop-filter: blur(20px) saturate(130%) brightness(300%))) {
+@supports not (backdrop-filter: blur(20px) saturate(130%) brightness(300%)) {
   #header h1 {
     color: rgba(255,255,255,0.7)
   }
-}
-
-#github > div {
-  -webkit-overflow-scrolling: touch;
 }
 
 /* Ripple In
