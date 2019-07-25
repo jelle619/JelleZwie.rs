@@ -1,6 +1,7 @@
 .pace {
   -webkit-pointer-events: none;
   pointer-events: none;
+  margin: 0;
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
