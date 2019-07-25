@@ -9,12 +9,6 @@ h1, h2, h3, h4, h5, h6, p, a, span, table, form {
   font-family: 'Ubuntu', sans-serif;
 }
 
-h1, h2, h3. h4, h5, h6 {
-}
-
-p {
-}
-
 a:link, a:visited {
   color: #149dcc;
   text-decoration: none;
@@ -98,7 +92,7 @@ body > div {
 #dragonprojects {}
 
 #github > div {
-  height: 104
+  height: 104;
   width: 100%;
   max-width: 702px;
   overflow-x: auto;
