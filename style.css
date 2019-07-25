@@ -161,14 +161,14 @@ body > div {
   margin-top: 5px;
 }
 
-#footer div {
+#footer > footer > div {
   display: flex;
   width: 100%;
   justify-content: center;
   flex-wrap: wrap;
 }
 
-#footer img {
+#footer > footer > div > img {
   display: inline-block;
   margin: 5px;
 }
