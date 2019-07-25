@@ -31,6 +31,7 @@ DRAGONS         '------>
   <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu:300,400,500,700&display=swap" rel="stylesheet"> <!--Google Fonts-->
   <link rel="stylesheet" href="https://d1azc1qln24ryf.cloudfront.net/114779/Socicon/style-cf.css?u8vidh"> <!--Socicon-->
   <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script> <!--Twemoji-->
+  <script src="https://cdn.jsdelivr.net/npm/luxon@1.17.2/build/global/luxon.min.js" crossorigin="anonymous"></script> <!--Luxon-->
   <link rel="stylesheet" href="libraries/pace.css"> <!--pace.css-->
   <script src="libraries/pace.js"></script> <!--pace.js-->
 
@@ -63,6 +64,10 @@ DRAGONS         '------>
       <tr>
         <th>Birthday</th>
         <td>May 18<sup>th</sup></td>
+      </tr>
+      <tr>
+        <th>Local time</th>
+        <td><script>document.write(currentTimeZone)</script></td>
       </tr>
     </table>
   </div>

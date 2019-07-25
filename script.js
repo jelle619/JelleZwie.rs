@@ -10,3 +10,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
     this.style.height = (this.scrollHeight) + "px";
   }
 });
+
+var currentTimeZone = luxon.DateTime.fromObject({zone: 'Europe/Amsterdam'}).toLocaleString(luxon.DateTime.DATETIME_FULL);
