@@ -16,3 +16,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
     tx[i].addEventListener("input", OnInput, false);
   }
 });
+
+document.addEventListener("DOMContentLoaded", function(event) {
+  Swal.fire({
+    title: 'Error!',
+    text: 'Do you want to continue',
+    type: 'error',
+    confirmButtonText: 'Cool'
+  })
+});
