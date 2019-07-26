@@ -1,7 +1,9 @@
 document.addEventListener("DOMContentLoaded", function(event) {
   document.body.style.cursor  = "wait";
-  window.onload=function(){document.body.style.cursor="default";}
+  window.onload=function(){document.body.style.cursor="default";};
 });
+
+var currentTimeZone = luxon.DateTime.fromObject({zone: "Europe/Amsterdam"}).toLocaleString(luxon.DateTime.DATETIME_FULL);
 
 document.addEventListener("DOMContentLoaded", function(event) {
   function OnInput() {
@@ -14,5 +16,3 @@ document.addEventListener("DOMContentLoaded", function(event) {
     tx[i].addEventListener("input", OnInput, false);
   }
 });
-
-var currentTimeZone = luxon.DateTime.fromObject({zone: "Europe/Amsterdam"}).toLocaleString(luxon.DateTime.DATETIME_FULL);
