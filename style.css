@@ -43,6 +43,11 @@ code {
    opacity: 1;
 }
 
+::selection {
+  color: white;
+  background-color: #149dcc;
+}
+
 body > div {
   margin: 50px 10vw 50px 10vw;
 }
