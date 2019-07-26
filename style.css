@@ -115,15 +115,15 @@ body > div {
   border: 1px solid #aaaaaa;
 }
 
-#contact input:not([type="submit"]) {
-  width: calc(100% - 20px);
-  max-width: 500px;
-  margin-bottom: 1em;
-}
-
 #contact fieldset:first-child input {
   width: calc(100% - 20px);
   max-width: 250px;
+  margin-bottom: 1em;
+}
+
+#contact input:not([type="submit"]) {
+  width: calc(100% - 20px);
+  max-width: 500px;
   margin-bottom: 1em;
 }
 
@@ -145,6 +145,10 @@ body > div {
 
 #contact input[type="submit"]{
   font-weight: 700;
+  background-color: #149dcc;
+  color: white;
+  border-radius: 5px;
+  border: 0;
 }
 
 #footer {
