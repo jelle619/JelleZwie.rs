@@ -13,9 +13,16 @@ a:link, a:visited {
   color: #149dcc;
   text-decoration: none;
   scroll-behavior: smooth;
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .25s;
 }
 
-span {
+a:hover, a:focus {
+  background-size: 100% 2px;
 }
 
 table {
@@ -94,8 +101,6 @@ body > div {
   }
 }
 
-#dragonprojects {}
-
 #github > div {
   height: 104;
   width: 100%;
@@ -149,6 +154,7 @@ body > div {
   color: white;
   border-radius: 5px;
   border: 0;
+  cursor: pointer;
 }
 
 #footer {
