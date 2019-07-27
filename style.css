@@ -157,6 +157,10 @@ body > div {
   cursor: pointer;
 }
 
+#accounts {
+  margin-bottom: 40px;
+}
+
 #accounts a {
   display: inline-block;
   margin-right: 10px;
