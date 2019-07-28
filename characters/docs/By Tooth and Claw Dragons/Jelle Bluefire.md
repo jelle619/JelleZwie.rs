@@ -1,0 +1,121 @@
+# Jelle Bluefire
+ | Gender | Male |                                                                            
+ | --- | --- |                                                                          
+ | Species | Dragon; Western |                                                                
+ | Alignment | Neutral / Light |                                                              
+ | Age | Early adulthood |                                                                    
+ | Height | 3 metres |                                                                        
+ | Wingspan | 12 metres (full spread) |                                                       
+ | Elements | Fire, dark |                                                                    
+ | Combat | Forceful |                                                                        
+ | Zodiac sign | Fire |                                                                       
+ | Residence | Felnova (formerly Noctis) |                                                    
+ | Rider | None |                                                                             
+ | Mate | None |                                                                              
+ | Languges | Common, Draconic |                                                              
+ | Signature | [{{https://i.imgur.com/TlAh41o.png}}](https///i.imgur.com/PTMziC2.png) |
+
+## Artwork
+
+{{https://i.imgur.com/X7fIwFc.gif|Jelle Bluefire}}
+
+## Personaility
+*  Intelligent and eager
+*  A rational thinker
+*  Often under- or overestimates his capabilities
+*  Forgiving
+*  Does not easily trust others
+*  Calm
+*  Ambitious
+
+## Relationships
+
+ | Fyrendrang | Acquaintance |
+ | --- | --- |
+ | Nirn | Acquaintance |      
+ | Thanatos | Teacher |       
+
+## Appearance
+A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. The horns on his head point straight backwards. He has a tiny horn on his nose. Due to the sharp contrast between the horns/teeth/claws and his skin, they appear very white. The inside of his wings is grey, with his plated belly being the same colour. He wears decorative bandages around his arms/legs.
+
+## Abilities
+### Blue fire
+The ability, also called blue flame, to breathe a special kind of blue fire so hot it can easily melt rock. As such, Jelle's skin offers natural resistance to this kind of fire as to not burn himself. He inhabited from his ancestors. Rarely if ever does one of the bloodline posses this ability despite carrying it.
+
+### Vuurzee
+Vuurzee, "sea of fire", is Jelle's most well guarded secret. It is a form in which he temporarily lets the dark reiatsu within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
+
+His claws, teeth, and horns elongate, sharpen and whiten. The horns of his forehead twist and two small protrusions on his chin grow, being bent slightly inwards. His eyes glow more than usual and his pupils become invisible. His scales become pointy, sawblade-like.
+
+He is stronger and ever so slightly taller in this form. His senses become more sensitive and his blue fire ability is greatly enhanced, being able to breathe nearly limitless quantities of it and the smoke coming from the flames being slightly poisonous. A longing for destruction and blood, which he may go as far to consume, fueling him. He can barely keep friend and foe apart. Any bit of his calmness or tenderness disappears, being replaced with utter terror until there's nothing left.
+
+#### Stages
+Assuming his Vuurzee form takes place in two major stages:
+ 1.  Irregular heavy breathing: Jelle can still be stopped from assuming his other form when calmed down.
+ 2.  Monsterous roar: Jelle is in the beginning stages of assuming his other form. This can no longer be prevented.
+The stages will play out in reverse when reverting back to his normal form.
+
+### Eyes of darkness
+His night vision allows him to perceive his surroundings even in the darkest of conditions. He can also scare away predators with his glowy eyes which, in the dark, appear ever so slightly menacing.
+
+### Crafty hands
+Dexterous hands allow him to handle objects with more ease compared to other dragons. Jelle is also able to walk on just his two hind feet.
+
+### Soaring dragon
+Jelle can use his wings to fly.
+
+### Unarmed extravaganza
+Jelle can use his sharp claws to deal out devastating attacks in a battle.
+
+### Magic
+During Jelle's youth, he met a canine-looking aura elemental named Thanatos who helped him get started with magic. Jelle is skilled in both fire (including some magma sub-manipulations) and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
+
+## Strengths/Weaknesses
+ | Own Attributes                            | Strong Against                            | Weak Against                              |                                          
+ | --------------                            | --------------                            | ------------                              |                                          
+ | {{ https://i.imgur.com/kjSPOEA.png | Fire}}                                    | {{ https://i.imgur.com/0pPDMVG.png | Air}}                                     | {{ https://i.imgur.com/YHvleTt.png | Water}} |
+ | :::                                       | {{ https://i.imgur.com/e8reMNY.png | Earth}}                                   | {{ https://i.imgur.com/lsfH3eA.png | Ice}}                                     |        
+ | {{ https://i.imgur.com/dsxwIQY.png | Dark}}                                    | {{ https://i.imgur.com/btQSr52.png | Light}}                                   |                                           |        
+
+### Biggest weakness
+When Jelle is breathing fire, shoot a stream of water into his mouth. The water needs to be cold and the stream must be strong as to not evaporate or get blown away by Jelle's breath. When successful, you will have disabled him for a moment, leaving him open for attack.
+
+## Skills
+### Alchemy
+Jelle knows some basic alchemy. He uses his knowledge to aid him in fire-breath performances, but also battles under certain circumstances.
+
+## Current situation
+Jelle recently moved to Felnova and does fire-breath performances for a living. Though he has quite a large home, he lives there alone, hoping to find somebody to share it with someday.
+
+### Fire-breath performer
+As a fire-breath performer, Jelle uses his blue fire ability to create a beautiful spectacle of flames. By throttling his fire breath, he can, besides blue fire, also create violet, red, orange and yellow fire. He uses fire magic to make his performances ever so slightly more gorgeous and clever alchemy tricks to make the scene a bit more extravagant. This, ultimately, achieves a simmilar effect to firework, but Jelle rarely uses this to refer to his performances as it's considered demonic, originating from Kurai.
+
+The job pays quite well, as his performances are quite one of a kind. Though he does not inherently dislike it, he does want to switch jobs eventually. This is because feels guilty for using his blue fire ability, a great breath weapon that can burn down everything in his path, for silly shows. He wishes to find a job where his abilities can be used for something meaningful, where he could actually change things for the better and where he can reach the greatness of his ancestors.
+
+## History
+A long time ago, one of Jelle's ancestors was a servant of the darkness. He had been given special powers to serve them, including the ability to breathe his signature blue fire, a fire so hot that it could melt stone. No matter how much power he had been given to carry out their malicious deeds, the goodness in his heart was not corruptible. The destruction he was tasked to carry out put a dent in his self-esteem, but he refused to give up, to let the darkness win yet again, to let this all be for nothing. "No longer", he said, as it was time to end the dark lords' regime over the lands he held dear to his heart. "There is a way to be good again."
+
+With his newfound powers, he turned against them. It was a matter of time before others would join in his fight. All power he had been given backfired at them. Their final blow: a blue flame that penetrated their red blaze.
+
+End to terror came, with him to mostly thank for it. His actions had been forgiven, for it was for a greater good. He had been given the name "Bluefire" by the devine.
+
+## Motives
+*  Jelle, being connected to the darkness through his ancestors, wants to break the notion that everyone who has is inherently evil, as others are quick to judge him because of this. Because of this, he does not like most Halgians.
+*  Jelle wants to stop the Faction of Hope, people who are not able to reason, whose disastrous actions hold no ground. Jelle does not believe in this "One God" of theirs who is not able to explain where he got his powers from.
+*  Jelle feels the need to put his powers to good use, to help people out, as he feels like not using them would be a waste. This is for many of his heroic deeds the driving force.
+
+## Miccelaneous
+### Inspired by
+*  Giga Bowser ([Super Mario Wiki](https://www.mariowiki.com/Giga_Bowser))
+*  Drakenkoningin ([Amazon](https://amzn.to/2MZhTNA))
+*  The Elder Scrolls V: Skyrim ([Steam](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/))
+*  Leonidas ([Bakugan Wiki](https://bakugan.wiki/wiki/Leonidas))
+*  Charizard X ([Pokémon](https://www.pokemon.com/uk/pokedex/charizard))
+
+### Special thanks
+*  Mavanger ([By Tooth and Claw Dragons](http://forums.btacdragons.com/index.php?showuser=381))
+*  Verridith ([By Tooth and Claw Dragons](http://forums.btacdragons.com/index.php?showuser=1))
+
+### Credits
+*  Artwork (c) R8A-creations ([DeviantArt](https:///www.deviantart.com/r8a-creations))
+*  Sprites (c) By Tooth and Claw Dragons ([attributions](https:///btacdragons.com/credits.php))
