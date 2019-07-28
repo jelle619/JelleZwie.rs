@@ -1,17 +1,14 @@
 # Cydic
 Nickname | Bloodsucker
---- | ---
-Gender | Male        
+Gender | Male
 Species | Snakekind; Zelne
 Alignment | Neutral / Dark
 
 ## Appearance
-
 A vicious bipedal creature with overgrown fangs, pointy teeth and an apparent muzzle.
-Skin | dark red        
---- | ---
+Skin | dark red
 Belly | plated, sand-like
-Eyes | silver          
+Eyes | silver
 
 ## Personality
 *  Cynical

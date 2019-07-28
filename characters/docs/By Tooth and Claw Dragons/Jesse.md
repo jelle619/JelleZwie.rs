@@ -1,10 +1,9 @@
 # Jesse
-This character is going to get revamped soon!
+**This character is going to get revamped soon!**
 
- | Gender | Male |                
- | ---------------                
- | Item(s) | Shifting Gene |      
- | Name | Human / Western Dragon |
+Gender | Male
+Item(s) | Shifting Gene
+Name | Human / Western Dragon
 
 ## Personality
 May appear shy and insecure at first, but you will see that this becomes less the case once you get to know him. He will strive for his desires and protects the ones he loves. He might seem almost unstoppable when you get him going, but he’s normally very calm. If there’s one thing he cannot stand, is knowing that someone might be mad at him, and apologies quickly when he did something wrong. He’s very intelligent and eager to learn, but since he lost most of his memories, seemingly because of his long slumber, he has a lot to catch up to.

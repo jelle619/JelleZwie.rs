@@ -1,22 +1,19 @@
 # Jelle Bluefire
- | Gender | Male |                                                                            
- | --- | --- |                                                                          
- | Species | Dragon; Western |                                                                
- | Alignment | Neutral / Light |                                                              
- | Age | Early adulthood |                                                                    
- | Height | 3 metres |                                                                        
- | Wingspan | 12 metres (full spread) |                                                       
- | Elements | Fire, dark |                                                                    
- | Combat | Forceful |                                                                        
- | Zodiac sign | Fire |                                                                       
- | Residence | Felnova (formerly Noctis) |                                                    
- | Rider | None |                                                                             
- | Mate | None |                                                                              
- | Languges | Common, Draconic |                                                              
- | Signature | [{{https://i.imgur.com/TlAh41o.png}}](https///i.imgur.com/PTMziC2.png) |
-
+Gender | Male
+Species | Dragon; Western
+Alignment | Neutral / Light
+Age | Early adulthood
+Height | 3 metres
+Wingspan | 12 metres (full spread)
+Elements | Fire, dark
+Combat | Forceful
+Zodiac sign | Fire
+Residence | Felnova (formerly Noctis) |                                                    
+Rider | None |                                                                             
+Mate | None |                                                                              
+Languges | Common, Draconic |                                                              
+Signature | [![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)
 ## Artwork
-
 {{https://i.imgur.com/X7fIwFc.gif|Jelle Bluefire}}
 
 ## Personaility
@@ -30,10 +27,9 @@
 
 ## Relationships
 
- | Fyrendrang | Acquaintance |
- | --- | --- |
- | Nirn | Acquaintance |      
- | Thanatos | Teacher |       
+Fyrendrang | Acquaintance
+Nirn | Acquaintance
+Thanatos | Teacher
 
 ## Appearance
 A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. The horns on his head point straight backwards. He has a tiny horn on his nose. Due to the sharp contrast between the horns/teeth/claws and his skin, they appear very white. The inside of his wings is grey, with his plated belly being the same colour. He wears decorative bandages around his arms/legs.
@@ -117,5 +113,5 @@ End to terror came, with him to mostly thank for it. His actions had been forgiv
 *  Verridith ([By Tooth and Claw Dragons](http://forums.btacdragons.com/index.php?showuser=1))
 
 ### Credits
-*  Artwork (c) R8A-creations ([DeviantArt](https:///www.deviantart.com/r8a-creations))
-*  Sprites (c) By Tooth and Claw Dragons ([attributions](https:///btacdragons.com/credits.php))
+*  Artwork (c) R8A-creations ([DeviantArt](https://:www.deviantart.com/r8a-creations))
+*  Sprites (c) By Tooth and Claw Dragons ([attributions](https://:btacdragons.com/credits.php))

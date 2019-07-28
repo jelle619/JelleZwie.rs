@@ -1,3 +1,2 @@
 # Rathkin
-
-Coming soon!
+**Coming soon!**
