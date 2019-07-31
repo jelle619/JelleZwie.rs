@@ -89,7 +89,7 @@ Question | Relates to | Answer | Assumed preference
 --- | --- | --- | ---
 What's your favourite colour? | Skin colour | Red | Red
 What is your second favourite colour? | Artwork background | Black | Dark background
-Which symbol do you like the most? | Element | [Haos](https://:bakugan.wiki/wiki/Haos)| Light
+Which symbol do you like the most? | Element | [Haos](https://:bakugan.wiki/wiki/Haos) | Light
 Would you rather be strong or agile? | Build | Agile | <strike>Eastern dragon</strike>
 Do you prefer attacking with a sword or magic? | Many/few horns, long/short claws | Magic | Few horns and short claws
 Which kind of design do you prefer: sleek or organic? | Curly or straight horns | No preference | Slightly curly

@@ -1,4 +1,4 @@
-# Acrylic
+# Monochrome
 This character's name may change in the future. This character has not been submitted or approved by By Tooth And Claw Dragons. This character entry still needs to be finished.
 
 ## History

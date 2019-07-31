@@ -1,8 +1,22 @@
 # Cydic
-Nickname | Bloodsucker
-Gender | Male
-Species | Snakekind; Zelne
-Alignment | Neutral / Dark
+<table>
+  <tr>
+    <th>Nickname</th>
+    <td>Bloodsucker</td>
+  </tr>
+  <tr>
+    <th>Gender</th>
+    <td>Male</td>
+  </tr>
+  <tr>
+    <th>Species</th>
+    <td>Snakekind; Zelne</td>
+  </tr>
+  <tr>
+    <th>Alignment</th>
+    <td>Neutral / Dark</td>
+  </tr>
+</table>
 
 ## Appearance
 A vicious bipedal creature with overgrown fangs, pointy teeth and an apparent muzzle.
