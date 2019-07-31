@@ -1,20 +1,61 @@
 # Jelle Bluefire
-Gender | Male
-Species | Dragon; Western
-Alignment | Neutral / Light
-Age | Early adulthood
-Height | 3 metres
-Wingspan | 12 metres (full spread)
-Elements | Fire, dark
-Combat | Forceful
-Zodiac sign | Fire
-Residence | Felnova (formerly Noctis) |                                                    
-Rider | None |                                                                             
-Mate | None |                                                                              
-Languges | Common, Draconic |                                                              
-Signature | [![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)
+<table>
+  <tr>
+    <th>Gender</th>
+    <td>Male</td>
+  </tr>
+  <tr>
+    <th>Species</th>
+    <td>Dragon; Western</td>
+  </tr>
+  <tr>
+    <th>Alignment</th>
+    <td>Neutral / Light</td>
+  </tr>
+  <tr>
+    <th>Age</th>
+    <td>Early adulthood</td>
+  </tr>
+  <tr>
+    <th>Height</th>
+    <td>3 metres</td>
+  </tr>
+  <tr>
+    <th>Wingspan</th>
+    <td>12 metres (full spread)</td>
+  </tr>
+  <tr>
+    <th>Elements</th>
+    <td>Fire, dark</td>
+  </tr>
+  <tr>
+    <th>Combat</th>
+    <td>Forceful</td>
+  </tr>
+  <tr>
+    <th>Zodiac sign</th>
+    <td>Fire</td>
+  </tr>
+  <tr>
+    <th>Residence</th>
+    <td>Felnova (formerly Noctis)</td>
+  </tr>
+  <tr>
+    <th>Rider</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Mate</th>
+    <td>None</td>
+  </tr>
+  <tr>
+    <th>Signature<th>
+    <td>[![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)</td>
+  </tr>
+</table>
+
 ## Artwork
-{{https://i.imgur.com/X7fIwFc.gif|Jelle Bluefire}}
+![Jelle Bluefire](https://i.imgur.com/X7fIwFc.gif)
 
 ## Personaility
 *  Intelligent and eager

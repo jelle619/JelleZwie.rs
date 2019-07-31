@@ -56,7 +56,6 @@
 </table>                          
 
 ##  Abilities
-
 ### Enhancer
 Enhances one of the abilities the spell is cast on. The greater it is enhanced, the more power is required.
 
