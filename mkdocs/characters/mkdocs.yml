@@ -1,1 +1,3 @@
 site_name: Jelle's Character Directory
+theme:
+  name: 'material'
