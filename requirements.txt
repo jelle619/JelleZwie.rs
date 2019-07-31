@@ -1,2 +1,2 @@
-pip mkdocs
+mkdocs
 pip mkdocs-material
