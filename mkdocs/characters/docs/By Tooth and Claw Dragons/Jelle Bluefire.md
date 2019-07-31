@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <th>Signature<th>
-    <td>[![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)</td>
+    <td><a href="https://i.imgur.com/PTMziC2.png"><img src="https://i.imgur.com/TlAh41o.png" alt="Signature"></a></td>
   </tr>
 </table>
 
@@ -108,11 +108,10 @@ Jelle can use his sharp claws to deal out devastating attacks in a battle.
 During Jelle's youth, he met a canine-looking aura elemental named Thanatos who helped him get started with magic. Jelle is skilled in both fire (including some magma sub-manipulations) and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
 
 ## Strengths/Weaknesses
- | Own Attributes                            | Strong Against                            | Weak Against                              |                                          
- | --------------                            | --------------                            | ------------                              |                                          
- | {{ https://i.imgur.com/kjSPOEA.png | Fire}}                                    | {{ https://i.imgur.com/0pPDMVG.png | Air}}                                     | {{ https://i.imgur.com/YHvleTt.png | Water}} |
- | :::                                       | {{ https://i.imgur.com/e8reMNY.png | Earth}}                                   | {{ https://i.imgur.com/lsfH3eA.png | Ice}}                                     |        
- | {{ https://i.imgur.com/dsxwIQY.png | Dark}}                                    | {{ https://i.imgur.com/btQSr52.png | Light}}                                   |                                           |        
+Own Attributes | Strong Against | Weak Against
+--- | --- | -----                              |                                          
+![Fire](https://i.imgur.com/kjSPOEA.png) | ![Air](https://i.imgur.com/0pPDMVG.png) ![Earth](https://i.imgur.com/e8reMNY.png) | ![Water](https://i.imgur.com/YHvleTt.png) ![Ice](https://i.imgur.com/lsfH3eA.png)
+![Dark](https://i.imgur.com/dsxwIQY.png) | ![Light](https://i.imgur.com/btQSr52.png) | ![Light](https://i.imgur.com/btQSr52.png)
 
 ### Biggest weakness
 When Jelle is breathing fire, shoot a stream of water into his mouth. The water needs to be cold and the stream must be strong as to not evaporate or get blown away by Jelle's breath. When successful, you will have disabled him for a moment, leaving him open for attack.
