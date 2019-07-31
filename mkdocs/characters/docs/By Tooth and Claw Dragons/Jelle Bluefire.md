@@ -49,8 +49,8 @@
     <td>None</td>
   </tr>
   <tr>
-    <th>Signature<th>
-    <td><a href="https://i.imgur.com/PTMziC2.png"><img src="https://i.imgur.com/TlAh41o.png" alt="Signature"></a></td>
+    <th>Signature</th>
+    <td>[![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)</td>
   </tr>
 </table>
 
@@ -67,10 +67,20 @@
 *  Ambitious
 
 ## Relationships
-
-Fyrendrang | Acquaintance
-Nirn | Acquaintance
-Thanatos | Teacher
+<table>
+  <tr>
+    <th>Fyrendrang</th>
+    <td>Acquaintance</td>
+  </tr>
+  <tr>
+    <th>Nirn</th>
+    <td>Acquaintance</td>
+  </tr>
+  <tr>
+    <th>Thanatos</th>
+    <td>Teacher</td>
+  </tr>
+</table>
 
 ## Appearance
 A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. The horns on his head point straight backwards. He has a tiny horn on his nose. Due to the sharp contrast between the horns/teeth/claws and his skin, they appear very white. The inside of his wings is grey, with his plated belly being the same colour. He wears decorative bandages around his arms/legs.
@@ -109,9 +119,9 @@ During Jelle's youth, he met a canine-looking aura elemental named Thanatos who 
 
 ## Strengths/Weaknesses
 Own Attributes | Strong Against | Weak Against
---- | --- | -----                              |                                          
+--- | --- | ---
 ![Fire](https://i.imgur.com/kjSPOEA.png) | ![Air](https://i.imgur.com/0pPDMVG.png) ![Earth](https://i.imgur.com/e8reMNY.png) | ![Water](https://i.imgur.com/YHvleTt.png) ![Ice](https://i.imgur.com/lsfH3eA.png)
-![Dark](https://i.imgur.com/dsxwIQY.png) | ![Light](https://i.imgur.com/btQSr52.png) | ![Light](https://i.imgur.com/btQSr52.png)
+![Dark](https://i.imgur.com/dsxwIQY.png) | ![Light](https://i.imgur.com/btQSr52.png) ![Light](https://i.imgur.com/btQSr52.png)
 
 ### Biggest weakness
 When Jelle is breathing fire, shoot a stream of water into his mouth. The water needs to be cold and the stream must be strong as to not evaporate or get blown away by Jelle's breath. When successful, you will have disabled him for a moment, leaving him open for attack.
