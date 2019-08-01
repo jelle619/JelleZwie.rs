@@ -98,6 +98,7 @@ What do you think of (hairless) sphynx cats? | Inclusion of any hear | Dislikes 
 Do you prefer cats with long hair of short hair? | Much hair of few hair | Short hair | Few hair
 If you were a dinosaur, would you be carnivorous, omnivorous or herbivorous? | Teeth | Omnivorous | Average length and prominence
 Which two words fit you? | Personality | Sympathetic and clumsy | At the very least sympathetic and clumsy
+
 Questions and answers were recorded on 20/04/2019.
 
 ### Real-life
