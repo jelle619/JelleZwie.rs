@@ -1,10 +1,11 @@
+# Metadata
 site_name: Jelle's Character Directory
 site_description: "My character directory site which contains information about the characters I may use in role-playing."
 site_author: "Jelle Zwiers"
+
+# Theming
 theme:
   name: "material"
-  edit_uri: "edit/master/mkdocs/characters/docs/"
-  repo_url: "https://github.com/jelle619/jellezwie.rs"
   palette:
     primary: "light blue"
     accent: "light blue"
@@ -13,8 +14,16 @@ theme:
     code: "Ubuntu Mono"
   logo:
     icon: "folder_shared"
+
+# Import
 extra_css:
   - "style.css"
 extra_javascript:
   - "script.js"
+
+# Repository
+repo_url: "https://github.com/jelle619/jellezwie.rs"
+edit_uri: "edit/master/mkdocs/characters/docs/"
+
+# Copyright
 copyright: "&copy; Jelle Z. and others"
