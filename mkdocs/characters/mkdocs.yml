@@ -1,3 +1,18 @@
 site_name: Jelle's Character Directory
+site_description: "My character directory site which contains information about the characters I may use in role-playing."
+site_author: "Jelle Zwiers"
 theme:
-  name: 'material'
+  name: "material"
+  repo_url: "https://github.com/jelle619/jellezwie.rs/tree/master/mkdocs/characters"
+  palette:
+    primary: "light blue"
+    accent: "light blue"
+  font:
+    text: "Ubuntu"
+    code: "Ubuntu Mono"
+  logo:
+    icon: "folder_shared"
+extra_css:
+  - "style.css"
+extra_javascript:
+  - "script.js"
