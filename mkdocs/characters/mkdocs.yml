@@ -3,7 +3,8 @@ site_description: "My character directory site which contains information about 
 site_author: "Jelle Zwiers"
 theme:
   name: "material"
-  repo_url: "https://github.com/jelle619/jellezwie.rs/tree/master/mkdocs/characters"
+  edit_uri: "edit/master/mkdocs/characters/docs/"
+  repo_url: "https://github.com/jelle619/jellezwie.rs"
   palette:
     primary: "light blue"
     accent: "light blue"
@@ -16,3 +17,4 @@ extra_css:
   - "style.css"
 extra_javascript:
   - "script.js"
+copyright: "&copy; Jelle Z."
