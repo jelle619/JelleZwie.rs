@@ -3,7 +3,7 @@
 This is my personal character directory site which contains all information I may use in role-playing. Use the menu bar to navigate around the site.
 
 ## Contributing
-Some characters entries belong to multiple authors. As such, you may have been given permission to edit these pages. This can be done using the edit button, after which you will be able to commit changes using your GitHub account. 
+Some characters belong to multiple authors. As such, you may have been given permission to edit certain character entries. This can be done by using the edit button on the designated page, after which you will be able to commit changes using your GitHub account. 
 
 ## Copyright
 Content may not be copied and only be accessible by a user directly visiting this website or its repository. Any downloadable files that have been provided are meant for personal use only and may not be redistributed.
