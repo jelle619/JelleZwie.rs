@@ -2,11 +2,14 @@
 
 This is my personal character directory site which contains all information I may use in role-playing. Use the menu bar to navigate around the site.
 
+## Contributing
+Some characters entries belong to multiple authors. As such, you may have been given permission to edit these pages. This can be done using the edit button, after which you will be able to commit changes using your GitHub account. 
+
 ## Copyright
-No content may be copied and may only be accessible by a user directly visiting this website. Any downloadable files that have been provided are meant for personal use only and may not be redestributed. 
+Content may not be copied and only be accessible by a user directly visiting this website or its repository. Any downloadable files that have been provided are meant for personal use only and may not be redistributed.
 
 There may be exceptions to what has been described above in the following cases:
 * An exception has been explicitly stated on the page holding the content.
 * You have consent from the original author(s) to use it in any other way.
 
-In case of any issues, I can be contacted [here](/#contact).
+In case of any issues concerning copyright, I can be contacted [here](/#contact).

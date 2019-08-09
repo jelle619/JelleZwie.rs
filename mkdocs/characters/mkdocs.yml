@@ -22,7 +22,6 @@ extra_javascript:
   - "script.js"
 
 # Repository
-repo_name: ""
 repo_url: "https://github.com/jelle619/jellezwie.rs"
 edit_uri: "edit/master/mkdocs/characters/docs/"
 
