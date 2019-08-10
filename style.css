@@ -209,6 +209,10 @@ body > div {
   }
 }
 
+#github > div {
+  -webkit-overflow-scrolling: touch;
+}
+
 /*Keyframes*/
 /*
 @-webkit-keyframes hvr-ripple-in {
