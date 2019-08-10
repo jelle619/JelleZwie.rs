@@ -12,4 +12,4 @@ There may be exceptions to what has been described above in the following cases:
 * An exception has been explicitly stated on the page holding the content.
 * You have consent from the original author(s) to use it in any other way.
 
-In case of any issues concerning copyright, I can be contacted [here](/#contact).
+In case of any issues concerning copyright, please contact using the [form](/#contact).
