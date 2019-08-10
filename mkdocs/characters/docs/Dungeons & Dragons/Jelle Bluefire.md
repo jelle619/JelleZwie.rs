@@ -8,5 +8,5 @@ Dungeons & Dragons uses a standard format for its character sheets which is disp
 ## Download
 The character sheet can be viewed and/or downloaded [here](https://github.com/jelle619/jellezwie.rs/raw/master/mkdocs/characters/docs/Dungeons%20%26%20Dragons/Jelle%20Bluefire.pdf) in PDF format.
 
-## Copyrright
+## Copyright
 The character sheet is TM & © 2014 Wizards of the Coast LLC., the contents within are subject to the copyright as described [here](/characters/#copyright).
