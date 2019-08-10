@@ -112,7 +112,7 @@ Dexterous hands allow him to handle objects with more ease compared to other dra
 Jelle can use his wings to fly.
 
 ### Sharp extravaganza
-Jelle can use his sharp claws to deal out devastating attacks in a battle.
+Jelle can use his sharp claws to deal out devastating attacks in battle.
 
 ### Magic
 During Jelle's youth, he met a canine-looking aura elemental named Thanatos who helped him get started with magic. Jelle is skilled in both fire (including some magma sub-manipulations) and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
