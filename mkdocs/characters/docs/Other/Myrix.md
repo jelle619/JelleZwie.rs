@@ -4,7 +4,7 @@ More information coming soon.
 <table>
   <tr>
     <th>Gender</th>
-    <td>TBA</td>
+    <td>mystic</td>
   </tr>
   <tr>
     <th>Species</th>
