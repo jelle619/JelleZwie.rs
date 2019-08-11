@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <th>Signature</th>
-    <td>[![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)</td>
+    <td>![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)</td>
   </tr>
 </table>
 
@@ -125,7 +125,7 @@ During Jelle's youth, he met a canine-looking aura elemental named Thanatos who 
 Own Attributes | Strong Against | Weak Against
 --- | --- | ---
 ![Fire](https://i.imgur.com/kjSPOEA.png) | ![Air](https://i.imgur.com/0pPDMVG.png) ![Earth](https://i.imgur.com/e8reMNY.png) | ![Water](https://i.imgur.com/YHvleTt.png) ![Ice](https://i.imgur.com/lsfH3eA.png)
-![Dark](https://i.imgur.com/dsxwIQY.png) | ![Light](https://i.imgur.com/btQSr52.png) | 
+![Dark](https://i.imgur.com/dsxwIQY.png) | ![Light](https://i.imgur.com/btQSr52.png) |
 
 ### Biggest weakness
 When Jelle is breathing fire, shoot a stream of water into his mouth. The water needs to be cold and the stream must be strong as to not evaporate or get blown away by Jelle's breath. When successful, you will have disabled him for a moment, leaving him open for attack.
