@@ -1,6 +1,10 @@
 # Jelle Bluefire
 <table>
   <tr>
+    <th>Nickname</th>
+    <td>Blue</td>
+  </tr>
+  <tr>
     <th>Gender</th>
     <td>Male</td>
   </tr>
