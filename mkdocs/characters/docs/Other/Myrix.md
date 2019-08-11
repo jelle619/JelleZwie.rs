@@ -8,7 +8,7 @@ More information coming soon.
   </tr>
   <tr>
     <th>Species</th>
-    <td>Dragon</td>
+    <td>Dragon; Wyvern</td>
   </tr>
 </table>
 
