@@ -66,7 +66,7 @@
 *  A rational thinker
 *  Often under- or overestimates his capabilities
 *  Forgiving
-*  Does not easily trust others
+*  Does not feel comfortable around new people
 *  Calm
 *  Ambitious
 
