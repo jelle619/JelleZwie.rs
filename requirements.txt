@@ -1,2 +1,6 @@
+node
+npm
 mkdocs
 mkdocs-material
+hexo-cli
+
