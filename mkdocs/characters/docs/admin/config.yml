@@ -4,22 +4,11 @@ backend:
   branch: master
 
 public_folder: "characters"
-media_folder: "characters/assets"
-publish_mode: editorial_workflow
 
 collections:
-  - name: "doc"
-    label: "Doc"
+  - name: "entry"
+    label: "Entry"
     folder: "docs"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Publish Date", name: "date", widget: "string"}
-  - name: "extensions"
-    label: "Extensions"
-    folder: "docs/extensions"
     create: true
     slug: "{{slug}}"
     fields:
