@@ -6,5 +6,5 @@
 # | | | | | |   < (_| | (_) | (__\__ \
 # |_| |_| |_|_|\_\__,_|\___/ \___|___/
                                      
-mkdir characters
 mkdocs build --clean --config-file mkdocs/characters/mkdocs.yml --site-dir ../../characters
+rm -rf mkdocs
