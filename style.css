@@ -4,13 +4,35 @@ body {
   padding: 0;
 }
 
+/*Colour palette*/
+:root {
+  --main-accent: #149dcc;
+}
+
+/*Scrollbar*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ccc;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--main-accent);
+}
+
 /*Document-wide*/
 h1, h2, h3, h4, h5, h6, p, a, span, table, form {
   font-family: 'Ubuntu', sans-serif;
 }
 
 a:link, a:visited {
-  color: #149dcc;
+  color: var(--main-accent);
   text-decoration: none;
   scroll-behavior: smooth;
   text-decoration: none;
@@ -32,13 +54,13 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #ddd;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 code {
@@ -52,7 +74,7 @@ code {
 
 ::selection {
   color: white;
-  background-color: #149dcc;
+  background-color: var(--main-accent);
 }
 
 body > div {
@@ -117,7 +139,7 @@ body > div {
 
 #contact fieldset {
   border-radius: 5px;
-  border: 1px solid #aaaaaa;
+  border: 1px solid #aaa;
 }
 
 #contact fieldset:first-child input {
@@ -145,12 +167,12 @@ body > div {
   font-size: 0.9em;
   padding: 7px 8px 7px 8px;
   border-radius: 5px;
-  border: 1px solid #cccccc;
+  border: 1px solid #ccc;
 }
 
 #contact input[type="submit"]{
   font-weight: 700;
-  background-color: #149dcc;
+  background-color: var(--main-accent);
   color: white;
   border-radius: 5px;
   border: 0;
@@ -274,7 +296,7 @@ body > div {
 }
 
 .pace .pace-progress {
-  background: #ffffff;
+  background: #fff;
   position: fixed;
   z-index: 2000;
   top: 0;
