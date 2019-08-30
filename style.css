@@ -124,7 +124,7 @@ body > div {
 }
 
 #github > div {
-  height: 104;
+  height: 104px;
   width: 100%;
   max-width: 702px;
   overflow-x: auto;
