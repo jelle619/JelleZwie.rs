@@ -15,6 +15,10 @@ theme:
   logo:
     icon: "folder_shared"
 
+# Extensions
+markdown_extensions:
+  - admonition
+
 # Import
 extra_css:
   - "style.css"
