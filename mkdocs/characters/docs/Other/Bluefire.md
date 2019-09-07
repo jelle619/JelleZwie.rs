@@ -1,5 +1,5 @@
 # Bluefire
-Bluefire is Jelle's primary alternate persona. This page serves as a general information page about this character. Various variations on this character exist to comply with different settings.
+Bluefire is Jelle's primary alternate persona. This page serves as the general information page about this character. Various variations on this character exist to comply with different settings.
 
 !!! info
     Any beliefs, thoughts or opinions this character expresses in-character (e.g. in role-play) does not necessarily reflect the creator's.
@@ -28,4 +28,7 @@ Various settings require different naming schemes. As such, Bluefire's name may 
 </table>
 
 ## Design
-![The original "Bluefire" design as seen in Minecraft](https://i.imgur.com/8ukqYzv.png)
+### By Tooth and Claw Dragons
+![The Bluefire design as seen in By Tooth and Claw Dragons](https://i.imgur.com/A4VIj6E.jpg)
+### Minecraft
+![The Bluefire design as seen in Minecraft](https://i.imgur.com/8ukqYzv.png)
