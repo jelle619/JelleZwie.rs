@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   window.onload=function(){document.body.style.cursor="default";};
 });
 
-var localTime = luxon.DateTime.fromObject({zone: "Europe/Amsterdam"}).toLocaleString(luxon.DateTime.DATETIME_FULL);
+var localTime = DateTime.fromObject({zone: "Europe/Amsterdam"}).setLocale('en-gb').toLocaleString(DateTime.DATETIME_FULL);
 
 document.addEventListener("DOMContentLoaded", function(event) {
   function OnInput() {
