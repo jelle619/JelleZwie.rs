@@ -11,17 +11,17 @@ Various settings require different naming schemes. As such, Bluefire's name may 
 
 <table>
   <tr>
-    <th></th>
+    <th>Requirement</th>
     <th>Name</th>
     <th>Short-hand name</th>
   </tr>
   <tr>
-    <th>First or one name only</th>
+    <td>First or one name only</td>
     <td>Bluefire</td>
     <td>Blue</td>
   </tr>
   <tr>
-    <th>First and last name</th>
+    <td>First and last name</td>
     <td>Jelle Bluefire</td>
     <td>Jelle</td>
   </tr>
