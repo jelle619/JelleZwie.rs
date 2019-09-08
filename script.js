@@ -17,4 +17,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
   }
 });
 
-console.info("Here be dragons! 🐲")
+console.info("Here be dragons! 🐲");
