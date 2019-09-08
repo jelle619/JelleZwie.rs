@@ -16,3 +16,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
     tx[i].addEventListener("input", OnInput, false);
   }
 });
+
+console.info("Here be dragons! 🐲")

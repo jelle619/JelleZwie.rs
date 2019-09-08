@@ -19,7 +19,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ccc;
+  background: #aaa;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -78,13 +78,20 @@ code {
 }
 
 body > div {
-  margin: 50px 10vw 50px 10vw;
+  margin: 50px 10vw  50px 10vw;
+}
+
+@media (max-width: 960px) {
+  body > div {
+    margin: 50px 5vw 50px 5vw;
+  }
 }
 
 /*Body*/
 #header {
   height: 100vh;
   width: 100%;
+  background-color: #2f3338;
   background-image: url("hero.jpg");
   background-repeat: no-repeat;
   background-position: left;
