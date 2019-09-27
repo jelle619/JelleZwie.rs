@@ -23,7 +23,7 @@ Various settings require different naming schemes. As such, Bluefire's name may 
   <tr>
     <td>First and last name</td>
     <td>Jelle Bluefire</td>
-    <td>Jelle</td>
+    <td>Jelle or Blue</td>
   </tr>
 </table>
 
