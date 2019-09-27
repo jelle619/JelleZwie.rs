@@ -63,10 +63,10 @@
 
 ## Personaility
 *  Intelligent and eager
-*  A rational thinker
+*  Rational
 *  Often under- or overestimates his capabilities
 *  Forgiving
-*  Does not feel comfortable around new people
+*  Awkward around new people
 *  Calm
 *  Ambitious
 
