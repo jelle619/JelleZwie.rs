@@ -9,23 +9,10 @@ Bluefire is generally described as a black dragon with blue-glowing eyes. In add
 ## Naming
 Various settings require different naming schemes. As such, Bluefire's name may slightly vary across every iteration of his character. In most cases, how he is named depends on whether the character needs a last name in addition to a first name.
 
-<table>
-  <tr>
-    <th>Requirement</th>
-    <th>Name</th>
-    <th>Short-hand name</th>
-  </tr>
-  <tr>
-    <td>First or one name only</td>
-    <td>Bluefire</td>
-    <td>Blue</td>
-  </tr>
-  <tr>
-    <td>First and last name</td>
-    <td>Jelle Bluefire</td>
-    <td>Jelle or Blue</td>
-  </tr>
-</table>
+Requirement | Name | Short-hand name
+--- | --- | ---
+First or one name only | Bluefire | Blue
+First and last name | Jelle Bluefire | Jelle or Blue
 
 ## Design
 ### By Tooth and Claw Dragons
