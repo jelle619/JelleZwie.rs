@@ -1,5 +1,5 @@
 # Bluefire
-Bluefire is Jelle's primary alternate persona. This page serves as the general information page about this character. Various variations on this character exist to comply with different settings.
+Bluefire is Jelle's primary alternate persona. This page serves as the general information page about this character. Various iterations on this character exist to comply with different settings.
 
 !!! info
     Any beliefs, thoughts or opinions this character expresses in-character (e.g. in role-play) does not necessarily reflect the creator's.
