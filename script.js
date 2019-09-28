@@ -26,8 +26,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
 });
 
 // css-vars-ponyfill excecution (w/ conditions)
-cssVars({
-  onlyLegacy: true
+document.addEventListener("DOMContentLoaded", function(event) {
+  cssVars({
+    onlyLegacy: true
+  });
 });
 
 // Easter eggg
