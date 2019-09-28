@@ -1,5 +1,5 @@
 # Blue
-Blue, short-hand for Bluefire, is a character in Bluefire Universe.
+Blue, short-hand for Bluefire, is a character that appears in Bluefire Universe.
 
 ## Relationships
 ### Jesse
