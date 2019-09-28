@@ -27,9 +27,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 // css-vars-ponyfill excecution (w/ conditions)
 document.addEventListener("DOMContentLoaded", function(event) {
-  if (window.CSS && CSS.supports("color", "var(--var)") !== false) {
-    cssVars();
-  }
+  cssVars();
 });
 
 // Easter eggg
