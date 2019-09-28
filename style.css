@@ -2,36 +2,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--monochrome-7);
 }
 
 /*Colour palette*/
 :root {
   --primary-color: #149dcc;
-  --secondary-color: #2f3338;
-  --monochrome-0: black;
-  --monochrome-1: #aaa;
-  --monochrome-2: #bbb;
-  --monochrome-3: #ccc;
-  --monochrome-4: #ddd;
-  --monochrome-5: #eee;
-  --monochrome-6: #fff;
-  --monochrome-7: white;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --primary-color: #149dcc;
-    --secondary-color: #e6edef;
-    --monochrome-0: white;
-    --monochrome-1: #fff;
-    --monochrome-2: #eee;
-    --monochrome-3: #ddd;
-    --monochrome-4: #ccc;
-    --monochrome-5: #bbb;
-    --monochrome-6: #aaa;
-    --monochrome-7: black;
-  }
 }
 
 /*Scrollbar*/
@@ -41,11 +16,11 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--monochrome-5);
+  background: #eee;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--monochrome-1);
+  background: #aaa;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -55,7 +30,6 @@ body {
 /*Document-wide*/
 h1, h2, h3, h4, h5, h6, p, a, span, table, form {
   font-family: 'Ubuntu', sans-serif;
-  color: var(--monochrome-0);
 }
 
 a:link, a:visited {
@@ -81,17 +55,13 @@ table {
 }
 
 td, th {
-  border: 1px solid var(--monochrome-4);
+  border: 1px solid #ddd;
   text-align: left;
   padding: 8px;
 }
 
-tr {
-  background-color: var(--monochrome-7);
-}
-
 tr:nth-child(even) {
-  background-color: var(--monochrome-5);
+  background-color: #eee;
 }
 
 code {
@@ -122,7 +92,7 @@ body > div {
 #header {
   height: 100vh;
   width: 100%;
-  background-color: var(--secondary-color);
+  background-color: #2f3338;
   background-image: url("hero.jpg");
   background-repeat: no-repeat;
   background-position: left;
@@ -136,7 +106,7 @@ body > div {
 }
 
 #header h1 {
-  /*backdrop-filter: blur(20px) saturate(130%) brightness(300%);*/
+  backdrop-filter: blur(20px) saturate(130%) brightness(300%);
   color: rgba(255, 255, 255, 0.3);
   font-size: calc(75px + 5vw);
   margin: 0;
@@ -205,7 +175,7 @@ body > div {
   font-size: 0.9em;
   padding: 7px 8px 7px 8px;
   border-radius: 5px;
-  border: 1px solid var(--monochrome-3);
+  border: 1px solid #ccc;
 }
 
 #contact input[type="submit"]{
@@ -240,11 +210,11 @@ body > div {
   margin-right: 0;
   margin-bottom: 0;
   padding: 25px 10vw 25px 10vw;
-  background-color: var(--secondary-color);
+  background-color: #2f3338;
 }
 
 #footer p {
-  color: var(--monochrome-7);
+  color: white;
   text-align: center;
   margin-top: 5px;
 }
