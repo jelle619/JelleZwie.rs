@@ -6,7 +6,31 @@ body {
 
 /*Colour palette*/
 :root {
-  --main-accent: #149dcc;
+  --primary-color: #149dcc;
+  --secondary-color: #2f3338;
+  --monochrome-0: black;
+  --monochrome-1: #aaa;
+  --monochrome-2: #bbb;
+  --monochrome-3: #ccc;
+  --monochrome-4: #ddd;
+  --monochrome-5: #eee;
+  --monochrome-6: #fff;
+  --monochrome-7: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #149dcc;
+    --secondary-color: #e6edef;
+    --monochrome-0: white;
+    --monochrome-1: #fff;
+    --monochrome-2: #eee;
+    --monochrome-3: #ddd;
+    --monochrome-4: #ccc;
+    --monochrome-5: #bbb;
+    --monochrome-6: #aaa;
+    --monochrome-7: black;
+  }
 }
 
 /*Scrollbar*/
@@ -16,24 +40,25 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #eee;
+  background: var(--monochrome-5);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #aaa;
+  background: var(--monochrome-1);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--main-accent);
+  background: var(--primary-color);
 }
 
 /*Document-wide*/
 h1, h2, h3, h4, h5, h6, p, a, span, table, form {
   font-family: 'Ubuntu', sans-serif;
+  color: var(--monochrome-0);
 }
 
 a:link, a:visited {
-  color: var(--main-accent);
+  color: var(--primary-color);
   text-decoration: none;
   scroll-behavior: smooth;
   text-decoration: none;
@@ -55,13 +80,13 @@ table {
 }
 
 td, th {
-  border: 1px solid #ddd;
+  border: 1px solid var(--monochrome-4);
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #eee;
+  background-color: var(--monochrome-5);
 }
 
 code {
@@ -75,7 +100,7 @@ code {
 
 ::selection {
   color: white;
-  background-color: var(--main-accent);
+  background-color: var(--primary-color);
 }
 
 body > div {
@@ -92,7 +117,7 @@ body > div {
 #header {
   height: 100vh;
   width: 100%;
-  background-color: #2f3338;
+  background-color: var(--secondary-color);
   background-image: url("hero.jpg");
   background-repeat: no-repeat;
   background-position: left;
@@ -106,7 +131,7 @@ body > div {
 }
 
 #header h1 {
-  backdrop-filter: blur(20px) saturate(130%) brightness(300%);
+  /*backdrop-filter: blur(20px) saturate(130%) brightness(300%);*/
   color: rgba(255, 255, 255, 0.3);
   font-size: calc(75px + 5vw);
   margin: 0;
@@ -175,12 +200,12 @@ body > div {
   font-size: 0.9em;
   padding: 7px 8px 7px 8px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--monochrome-3);
 }
 
 #contact input[type="submit"]{
   font-weight: 700;
-  background-color: var(--main-accent);
+  background-color: var(--primary-color);
   color: white;
   border-radius: 5px;
   border: 0;
@@ -210,7 +235,7 @@ body > div {
   margin-right: 0;
   margin-bottom: 0;
   padding: 25px 10vw 25px 10vw;
-  background-color: #2f3338;
+  background-color: var(--secondary-color);
 }
 
 #footer p {
