@@ -9,6 +9,23 @@ body {
   --primary-color: #149dcc;
 }
 
+/*
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #149dcc;
+    --secondary-color: #e6edef;
+    --monochrome-0: white;
+    --monochrome-1: #fff;
+    --monochrome-2: #eee;
+    --monochrome-3: #ddd;
+    --monochrome-4: #ccc;
+    --monochrome-5: #bbb;
+    --monochrome-6: #aaa;
+    --monochrome-7: black;
+  }
+}
+*/
+
 /*Scrollbar*/
 ::-webkit-scrollbar {
   width: 10px;
