@@ -25,12 +25,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
   }
 });
 
-// css-vars-ponyfill excecution (w/ conditions)
-document.addEventListener("DOMContentLoaded", function(event) {
-  cssVars({
-    onlyLegacy: true
-  });
-});
-
 // Easter eggg
 console.info("Here be dragons! 🐲");
