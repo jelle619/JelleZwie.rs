@@ -2,6 +2,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: var(--monochrome-1);
 }
 
 /*Colour palette*/
@@ -239,7 +240,7 @@ body > div {
 }
 
 #footer p {
-  color: white;
+  color: var(--monochrome-7);
   text-align: center;
   margin-top: 5px;
 }
