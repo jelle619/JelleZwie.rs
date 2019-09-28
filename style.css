@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--monochrome-1);
+  background-color: var(--monochrome-0);
 }
 
 /*Colour palette*/
@@ -84,6 +84,10 @@ td, th {
   border: 1px solid var(--monochrome-4);
   text-align: left;
   padding: 8px;
+}
+
+tr {
+  background-color: var(--monochrome-0)
 }
 
 tr:nth-child(even) {
