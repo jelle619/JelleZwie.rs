@@ -2,11 +2,11 @@
 <table>
   <tr>
     <th>Gender</th>
-    <td>TBA</td>
+    <td>Male</td>
   </tr>
   <tr>
     <th>Species</th>
-    <td>Dragon; Wyvern</td>
+    <td>Dragon</td>
   </tr>
 </table>
 
@@ -33,13 +33,13 @@ Coming soon!
 <table>
   <tr>
     <th>Skin</th>
-    <td>TBA</td>
+    <td>Blue (will be changed in the future)</td>
   </tr>
   <tr>
     <th>Eyes</th>
-    <td>TBA</td>
+    <td>gold</td>
   </tr>
 </table>
 
 ## Personality
-*  TBA
+*  kind and forgiving but also choatic and destructive.
