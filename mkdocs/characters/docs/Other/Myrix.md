@@ -1,5 +1,5 @@
 # Myrix
-More information coming soon.
+![Artwork of Myrix](https://i.imgur.com/pPcBy5c.jpg)
 
 <table>
   <tr>
