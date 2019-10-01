@@ -1,6 +1,4 @@
 # Blue Moon
-More information coming soon!
-
 <table>
   <tr>
     <th>Gender</th>
