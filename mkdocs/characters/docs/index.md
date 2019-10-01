@@ -1,10 +1,10 @@
-This is my personal character directory site which contains all information I may use in role-playing. Use the menu bar to navigate around the site.
+This is a character directory site which contains a variety of characters. Use the menu bar to navigate around the site.
 
 !!! attention
     Any beliefs, thoughts or opinions a character expresses in-character (e.g. in role-play) does not necessarily reflect the creator's.
 
 ## Contributing
-Some characters belong to multiple authors. If you are one such author, you may suggest changes to certain character entries using the edit button on the designated page. You will be able to make a pull request with the edits you made using your GitHub account.
+Some characters belong to other authors. If you are one such author, you may suggest changes to certain character entries using the edit button on the designated page. You will be able to make a pull request with the edits you made using your GitHub account.
 
 ## Copyright
 Content may not be copied and only be accessible by a user directly visiting this website or its repository. Any downloadable files that have been provided are meant for personal use only and may not be redistributed.
