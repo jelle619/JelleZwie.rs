@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <th>Species</th>
-    <td>Dragon; Wyvern</td>
+    <td>Dragon; Western</td>
   </tr>
 </table>
 
