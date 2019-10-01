@@ -167,5 +167,5 @@ End to terror came, with him to mostly thank for it. His actions had been forgiv
 *  Verridith ([By Tooth and Claw Dragons](http://forums.btacdragons.com/index.php?showuser=1))
 
 ### Credits
-*  Artwork (c) R8A-creations ([DeviantArt](https://:www.deviantart.com/r8a-creations))
-*  Sprites (c) By Tooth and Claw Dragons ([attributions](https://:btacdragons.com/credits.php))
+*  Artwork (c) R8A-creations ([DeviantArt](https://www.deviantart.com/r8a-creations))
+*  Sprites (c) By Tooth and Claw Dragons ([attributions](https://btacdragons.com/credits.php))
