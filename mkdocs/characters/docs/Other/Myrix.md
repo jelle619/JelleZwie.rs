@@ -12,6 +12,7 @@
 
 ## Artwork
 ![Artwork of Myrix](https://i.imgur.com/pPcBy5c.jpg)
+Artwork by [catloen](https://www.instagram.com/p/B2__y7IIV8h/)
 
 ## Appearance
 Coming soon!
