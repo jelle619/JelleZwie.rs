@@ -1,0 +1,331 @@
+/*Initial*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*Colour palette*/
+:root {
+  --primary-color: #149dcc;
+}
+
+/*
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #149dcc;
+    --secondary-color: #e6edef;
+    --monochrome-0: white;
+    --monochrome-1: #fff;
+    --monochrome-2: #eee;
+    --monochrome-3: #ddd;
+    --monochrome-4: #ccc;
+    --monochrome-5: #bbb;
+    --monochrome-6: #aaa;
+    --monochrome-7: black;
+  }
+}
+*/
+
+/*Scrollbar*/
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #aaa;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-color);
+}
+
+/*Document-wide*/
+h1, h2, h3, h4, h5, h6, p, a, span, table, form {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+a:link, a:visited {
+  color: var(--primary-color);
+  text-decoration: none;
+  scroll-behavior: smooth;
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .25s;
+}
+
+a:hover, a:focus {
+  background-size: 100% 2px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 500px;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #eee;
+}
+
+code {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+::placeholder {
+   color: grey;
+   opacity: 1;
+}
+
+::selection {
+  color: white;
+  background-color: var(--primary-color);
+}
+
+body > div {
+  margin: 50px 10vw  50px 10vw;
+}
+
+@media (max-width: 960px) {
+  body > div {
+    margin: 50px 5vw 50px 5vw;
+  }
+}
+
+/*Body*/
+#header {
+  height: 100vh;
+  width: 100%;
+  background-color: #2f3338;
+  background-image: url("hero.jpg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+}
+
+#header h1 {
+  backdrop-filter: blur(20px) saturate(130%) brightness(300%);
+  color: rgba(255, 255, 255, 0.3);
+  font-size: calc(75px + 5vw);
+  margin: 0;
+}
+
+#header h1:after {
+  content: " Zwiers";
+  white-space: pre;
+}
+
+@media (max-width:750px) {
+  #header h1:after {
+    content: " Z.";
+    white-space: pre;
+  }
+}
+
+@media (max-width:450px) {
+  #header h1:after {
+    content: none;
+    white-space: pre;
+  }
+}
+
+#github > div {
+  height: 104px;
+  width: 100%;
+  max-width: 702px;
+  overflow-x: auto;
+  direction: rtl;
+}
+
+#github > div > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contact fieldset {
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}
+
+#contact fieldset:first-child input {
+  width: calc(100% - 20px);
+  max-width: 250px;
+  margin-bottom: 1em;
+}
+
+#contact input:not([type="submit"]) {
+  width: calc(100% - 20px);
+  max-width: 500px;
+  margin-bottom: 1em;
+}
+
+#contact textarea {
+  width: calc(100% - 20px);
+  margin-bottom: 1em;
+  resize: none;
+}
+
+#contact input, #contact textarea {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  /*Experimental*/
+  font-size: 0.9em;
+  padding: 7px 8px 7px 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+#contact input[type="submit"]{
+  font-weight: 700;
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+}
+
+#accounts {
+  margin-bottom: 40px;
+}
+
+#accounts a {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#accounts h3:first-of-type {
+  margin-block-start: 1em;
+}
+
+#accounts h3 {
+  margin-block-start: calc(1em - 10px);
+}
+
+#footer {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding: 25px 10vw 25px 10vw;
+  background-color: #2f3338;
+}
+
+#footer p {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+}
+
+#footer > footer > div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#footer > footer > div > img {
+  display: inline-block;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+/*Compatibility*/
+@supports not (backdrop-filter: blur(20px) saturate(130%) brightness(300%)) {
+  #header h1 {
+    color: rgba(255,255,255,0.7)
+  }
+}
+
+#github > div {
+  -webkit-overflow-scrolling: touch;
+}
+
+/*Keyframes*/
+/*
+@-webkit-keyframes hvr-ripple-in {
+  100% {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+@keyframes hvr-ripple-in {
+  100% {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+.hvr-ripple-in {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+}
+.hvr-ripple-in:before {
+  content: '';
+  position: absolute;
+  border: #e1e1e1 solid 4px;
+  top: -12px;
+  right: -12px;
+  bottom: -12px;
+  left: -12px;
+  opacity: 0;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+}
+.hvr-ripple-in:hover:before, .hvr-ripple-in:focus:before, .hvr-ripple-in:active:before {
+  -webkit-animation-name: hvr-ripple-in;
+  animation-name: hvr-ripple-in;
+}
+*/
+
+/*PACE*/
+.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  margin: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.pace-inactive {
+  display: none;
+}
+
+.pace .pace-progress {
+  background: #fff;
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 2px;
+}
