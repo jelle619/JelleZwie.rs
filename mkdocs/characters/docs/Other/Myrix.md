@@ -1,6 +1,4 @@
 # Myrix
-![Artwork of Myrix](https://i.imgur.com/pPcBy5c.jpg)
-
 <table>
   <tr>
     <th>Gender</th>
@@ -11,6 +9,9 @@
     <td>Dragon; Wyvern</td>
   </tr>
 </table>
+
+## Artwork
+![Artwork of Myrix](https://i.imgur.com/pPcBy5c.jpg)
 
 ## Appearance
 Coming soon!
