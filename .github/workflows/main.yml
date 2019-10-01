@@ -1,4 +1,4 @@
-name: github pages
+name: GitHub Pages
 
 on:
   push:
@@ -9,18 +9,25 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v1
 
-    - name: build
-      uses: actions/setup-node@v1
+    - name: Set up Python
+      uses: actions/setup-python@v1
       with:
-        node-version: '10.16'
-    - run: |
-        bash build.sh
+        python-version: '3.6'
+        architecture: 'x64'
 
-    - name: deploy
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r ./requirements.txt
+
+    - name: Build
+      run: bash build.sh
+
+    - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
       env:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: /
+        PUBLISH_DIR: ./
