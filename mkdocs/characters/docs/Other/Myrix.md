@@ -42,4 +42,4 @@ Coming soon!
 </table>
 
 ## Personality
-*  kind and forgiving but also choatic and destructive.
+*  Kind and forgiving, but also choatic and destructive.
