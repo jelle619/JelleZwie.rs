@@ -1,6 +1,9 @@
 # Bluefire
 This character entry is currently being worked on and is likely to change in the future. The character sheet can be downloaded [here](/characters/dungeons%20&%20dragons/Bluefire.pdf).
 
+!!! attention
+    The character sheet is to be used in-game, whereas the character description on this page is meant for general role-play. Therefore, details between the two may differ.
+
 <table>
   <tr>
     <th>Race</th>
