@@ -38,12 +38,12 @@ This character entry is currently being worked on and is likely to change in the
 
 ## Backstory
 
-!!! info
-    This section is soon to be expanded. Expect some information to be added or changed in the future.
-
 He was born into a family and clan he didn't want to be part of. His parents always told him he was destined for greatness and that he bears power others could only dream of. Eventually, he decided to leave all he knew behind to discover who he's truly meant to be.
 
 Bluefire's abilities suggest he is an ancestor of the red dragon, but the darkness that runs in his family has blackened his and his ancestors' scales to the point it's completely void of any colour.
+
+!!! info
+    This section is soon to be expanded. Expect some information to be added or changed in the future.
 
 ## Copyright
 
