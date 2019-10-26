@@ -1,4 +1,5 @@
 # Bluefire
+
 This character entry is currently being worked on and is likely to change in the future. The character sheet can be downloaded [here](/characters/dungeons%20&%20dragons/Bluefire.pdf).
 
 !!! attention
@@ -36,6 +37,7 @@ This character entry is currently being worked on and is likely to change in the
 </table>
 
 ## Backstory
+
 !!! info
     This section is soon to be expanded. Expect some information to be added or changed in the future.
 
@@ -44,4 +46,5 @@ He was born into a family and clan he didn't want to be part of. His parents alw
 Bluefire's abilities suggest he is an ancestor of the red dragon, but the darkness that runs in his family has blackened his and his ancestors' scales to the point it's completely void of any colour.
 
 ## Copyright
+
 The character sheet is TM & © 2014 Wizards of the Coast LLC. The contents within are subject to the copyright as described [here](/characters/#copyright).
