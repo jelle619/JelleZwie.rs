@@ -2,7 +2,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--background-color)
+  background-color: var(--background-color);
 }
 
 /*Colour palette*/
@@ -152,23 +152,25 @@ body > div {
 #contact fieldset {
   border-radius: 5px;
   border: 1px solid white;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-block-start: 0;
+  padding-block-end: 0;
+  padding-inline-start: 0;
+  padding-inline-end: 0;
+  padding: 1em;
 }
 
 #contact fieldset:first-child input {
-  width: calc(100% - 18px);
-  max-width: 250px;
+  max-width: 50%;
   margin-bottom: 1em;
 }
 
-#contact input:not([type="submit"]) {
-  width: calc(100% - 18px);
-  max-width: 500px;
+#contact fieldset input:not([type="submit"]), #contact fieldset textarea {
+  color: var(--text-color);
+  width: 100%;
   margin-bottom: 1em;
-}
-
-#contact textarea {
-  width: calc(100% - 18px);
-  margin-bottom: 1em;
+  box-sizing: border-box;
   resize: none;
 }
 
@@ -180,7 +182,7 @@ body > div {
   padding: 7px 8px 7px 8px;
   border-radius: 5px;
   border: 1px solid white;
-  background-color: white;
+  background-color: rgba(0,0,0,0.3);
 }
 
 #contact input[type="submit"]{
