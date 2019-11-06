@@ -33,11 +33,11 @@ Coming soon!
 <table>
   <tr>
     <th>Skin</th>
-    <td>Blue (will be changed in the future)</td>
+    <td>White</td>
   </tr>
   <tr>
     <th>Eyes</th>
-    <td>gold</td>
+    <td>Gold</td>
   </tr>
 </table>
 
