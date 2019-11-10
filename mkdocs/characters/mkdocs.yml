@@ -3,11 +3,6 @@ site_name: Jelle's Character Directory
 site_description: "A character directory site containing information about original characters."
 site_author: "Jelle Zwiers"
 
-# Navigation
-
-nav:
-    - 'Back to main site': '../index.html'
-
 # Theming
 theme:
   name: "material"
