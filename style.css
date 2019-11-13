@@ -166,7 +166,7 @@ body > div {
   margin-bottom: 1em;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 750px) {
   #contact fieldset:first-child input {
     max-width: 100%;
   }
