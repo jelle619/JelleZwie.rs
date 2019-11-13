@@ -166,6 +166,12 @@ body > div {
   margin-bottom: 1em;
 }
 
+@media (max-width: 960px) {
+  #contact fieldset:first-child input {
+    max-width: 100%;
+  }
+}
+
 #contact fieldset input:not([type="submit"]), #contact fieldset textarea {
   color: var(--text-color);
   width: 100%;
