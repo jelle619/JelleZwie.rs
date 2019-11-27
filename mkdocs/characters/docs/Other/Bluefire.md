@@ -1,5 +1,5 @@
 # Bluefire
-Bluefire is Jelle's primary alternate persona. This page serves as the general information page about this character. Various iterations on this character exist to comply with different settings.
+This page serves as the general information page about this character. Various iterations on this character exist to comply with different settings.
 
 Bluefire is generally described as a black dragon with blue-glowing eyes. In addition to this, he has two straight horns with smaller horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. Furthermore, he has a grey plated belly. The inside of his wings are also grey. As a western dragon, he has, including the wings, six limbs.
 
