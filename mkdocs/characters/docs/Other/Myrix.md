@@ -12,7 +12,7 @@
 
 ## Artwork
 ![Artwork of Myrix](https://i.imgur.com/PCPcVLF.jpg)
-Artwork by Catloen [(Instagram)](https://www.instagram.com/p/B2__y7IIV8h/)
+Artwork by Catloen ([Instagram](https://www.instagram.com/p/B2__y7IIV8h/))
 
 ## Appearance
 Coming soon!
@@ -29,7 +29,7 @@ Coming soon!
   </tr>
     <tr>
     <th>Weight</th>
-    <td>76000000 kilogrammes/td>
+    <td>76000000 kilogrammes</td>
   </tr>
 </table>
 
