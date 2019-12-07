@@ -46,7 +46,7 @@ Coming soon!
 </table>
 
 ## Personality
-*  Neutral good kind and wholesome but absolutely terrifying when irritated.
+*  Neutral good, kind and wholesome but absolutely terrifying when irritated.
 
 ### Power
 *  Myrix has no real usable power as a dragon. But he does have the semi-controlled passive power which terraforms all his surroundings within a 100 kilometre radius too his current mood. I.E. when he is pissed the ground will turn into a vulcano and the sky will turn pitch black. The only way for him to control this power is to control his mood.
