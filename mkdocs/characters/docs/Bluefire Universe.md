@@ -44,7 +44,7 @@ With a swing, he flung the door wide open. This, in a way, felt quite welcoming 
 ## Chapter 2
 
 ### Episode 1: God is Moribund
-Every day, we stray further from something that may no longer be there already.
+Every day, we stray further from something that may no longer be there.
 
 *With his eyes closed, there he was, in the middle of a conversation with that figure again. The imposing figure paused for a moment, "does any human know about you?" to which Blue answered with a clear and direct "no". "It might be time to start making friends. Not doing so might work against you." Blue made a contemptuous noise, for all this time he had been guarding a secret he was now asked to simply give up. "Tell it to someone you can take advantage of and can find out what the government's plans are. Who knows what those humans are up to." Blue entreated: "Speaking of humans, have you convinced everybody of the people up here? How they're not as bad as everyone says them to be?" The other groaned: "far from everybody." The figure moved closer towards him. "Stay safe," it said, before turning into a puff of smoke.*
 
