@@ -11,8 +11,8 @@ Requirement | Name | Short-hand name
 First or one name only | Bluefire | Blue
 First and last name | Jelle Bluefire | Jelle or Blue
 
-## Design
+## Artwork
 ### By Tooth and Claw Dragons
-![The Bluefire design as seen in By Tooth and Claw Dragons](https://i.imgur.com/A4VIj6E.jpg)
+![Bluefire as seen in By Tooth and Claw Dragons](https://i.imgur.com/X7fIwFc.gif)
 ### Minecraft
-![The Bluefire design as seen in Minecraft](https://i.imgur.com/8ukqYzv.png)
+![Bluefire as seen in Minecraft](https://i.imgur.com/8ukqYzv.png)
