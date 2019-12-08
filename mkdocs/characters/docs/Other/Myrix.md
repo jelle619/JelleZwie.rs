@@ -8,6 +8,14 @@
     <th>Species</th>
     <td>Dragon; Western</td>
   </tr>
+  <tr>
+    <th>Age</th>
+    <td>Older than the oldest tales</td>
+  </tr>
+  <tr>
+    <th>Element</th>
+    <td>All</td>
+  </tr>
 </table>
 
 ## Artwork
@@ -50,3 +58,6 @@ Coming soon!
 
 ### Power
 *  Myrix has no real usable power as a dragon. But he does have the semi-controlled passive power which terraforms all his surroundings within a 100 kilometre radius too his current mood. I.E. when he is pissed the ground will turn into a vulcano and the sky will turn pitch black. The only way for him to control this power is to control his mood.
+
+### Flaws
+* When I was young I was bitten in my chest. The gap which was left behind immediately started leaking elemental energy. Due to the leak i cant control my power and my breath weapon is disabled. I have no way to control the leak and as i started to become older it never healed.
