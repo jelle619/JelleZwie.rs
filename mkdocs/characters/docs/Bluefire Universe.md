@@ -92,6 +92,8 @@ He left the apartment block, walked through the lobby to finally be met with the
 ### Episode 2: Text Book Emotion
 Small things can have huge outcomes.
 
+Coming soon!
+
 ### Episode 3: Chicken Dinner
 
 Coming soon!
