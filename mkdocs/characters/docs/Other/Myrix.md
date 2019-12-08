@@ -60,4 +60,4 @@ Coming soon!
 *  Myrix has no real usable power as a dragon. But he does have the semi-controlled passive power which terraforms all his surroundings within a 100 kilometre radius too his current mood. I.E. when he is pissed the ground will turn into a vulcano and the sky will turn pitch black. The only way for him to control this power is to control his mood.
 
 ### Flaws
-* When Myrex was young, they were bitten in their chest. The gap which was left behind immediately started leaking elemental energy. Due to the leak they can't control their power and their breath weapon is disabled. They have no way to control the leak and the gap never healed as they started to become older.
+*  When Myrex was young, they were bitten in their chest. The gap which was left behind immediately started leaking elemental energy. Due to the leak they can't control their power and their breath weapon is disabled. They have no way to control the leak and the gap never healed as they started to become older.
