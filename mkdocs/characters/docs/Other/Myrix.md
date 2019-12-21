@@ -19,7 +19,7 @@
 </table>
 
 ## Artwork
-![Artwork of Myrix](https://i.imgur.com/PCPcVLF.jpg)
+![Artwork of Myrix](https://i.imgur.com/ncOKeLL.jpg)
 Artwork by Catloen ([Instagram](https://www.instagram.com/p/B2__y7IIV8h/))
 
 ## Appearance
