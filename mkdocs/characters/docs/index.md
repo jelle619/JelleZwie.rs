@@ -1,6 +1,6 @@
 This is a character directory site which contains a variety of characters. Use the menu bar to navigate around the site.
 
-!!! attention
+!!! warning
     Any beliefs, thoughts or opinions expressed in-character (e.g. through role-play) does not necessarily reflect the creator's.
 
 ## Contributing
