@@ -41,7 +41,7 @@
 </table>
 
 ## Personality
-*  Neutral good; easialy bored but always adventerous. He is also wise, but also stubborn and careless.
+*  Neutral good; easialy bored but always adventerous. He is wise, but also stubborn and careless.
 
 ### Power
 *  He experience with most weapons, language and human skills, and if he finds a new one he can learn it very quickly. He can predict human behaviour up to 10 sec before they act (like seeying the future but only with behaviour).
