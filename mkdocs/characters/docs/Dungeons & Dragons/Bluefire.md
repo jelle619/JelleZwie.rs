@@ -1,13 +1,9 @@
 # Bluefire
 
 !!! warning
-    This character sheet may possibly contain some homebrew content.
+    This character sheet contains homebrew content. Ask your Dungeon Master whether he approves the use of homebrew before using it.
 
-## Character sheets
-Below are the character sheets that are available for download.
-
-* Level 1 (coming soon)
-* Level 2 (coming soon)
+Coming soon!
 
 ## Copyright
 The character sheet is TM & © 2014 Wizards of the Coast LLC. The contents within are subject to the copyright as described [here](/characters/#copyright).
