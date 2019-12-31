@@ -16,6 +16,10 @@
     <td>Dragon; Western</td>
   </tr>
   <tr>
+    <th>Alternative form</th>
+    <td>Human</td>
+  </tr>
+  <tr>
     <th>Age</th>
     <td>Early adulthood</td>
   </tr>
