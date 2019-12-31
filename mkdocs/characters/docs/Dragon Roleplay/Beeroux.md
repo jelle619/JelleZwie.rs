@@ -5,14 +5,16 @@
 <table>
   <tr>
     <th>Gender</th>
-    <td> Male</td>
+    <td>Male</td>
   </tr>
   <tr>
     <th>Species</th>
     <td>Dragon; Western</td>
-    <th>Current form </th>
-    <td>Human
-</tr>
+  </tr>
+  <tr>
+    <th>Alternative form</th>
+    <td>Human</td>
+  </tr>
   <tr>
     <th>Age</th>
     <td>4000 years</td>
@@ -32,15 +34,17 @@
     <th>Height</th>
     <td>1.81 metres</td>
   </tr>
-    <tr>
+  <tr>
     <th>Weight</th>
-    <td> 81kg </td>
+    <td>81 kg</td>
+  </tr>
+</table>
 
 ## Personality
-*  Neutral good; easialy bored but always adventerous; Wise but not carefull and subborn.
+*  Neutral good; easialy bored but always adventerous. He is also wise, but also stubborn and careless.
 
 ### Power
-*  has experience with most weapons, language and human skills, and if he finds a new one he can learn it very quickly. He can predict human behaviour up to 10 sec before they act(like seeying the future but only with behaviour).
+*  He experience with most weapons, language and human skills, and if he finds a new one he can learn it very quickly. He can predict human behaviour up to 10 sec before they act (like seeying the future but only with behaviour).
 
 ### Flaws
-*  cant do dragon magic.
+*  He cannot do magic
