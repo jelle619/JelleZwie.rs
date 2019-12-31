@@ -152,7 +152,7 @@ End to terror came, with him to mostly thank for it. His actions had been forgiv
 ## Motives
 *  Jelle, wants to break the notion that everyone who has connections to the dark is inherently evil, as he himself is connected to it through is ancestors. Others are quick to judge him because of this. Because of this, he does not like most Halgians.
 *  Jelle wants to stop the Faction of Hope, people who are not able to reason, whose disastrous actions hold no ground. Jelle does not believe in this "One God" of theirs who is not able to explain where he got his powers from.
-*  Jelle feels the need to put his powers to good use, to help people out, as he feels like not using them would be a waste. This is for many of his heroic deeds the driving force. Despite this, he often feels guilty for the people he might have killed, thinking the amount of deaths could have been less or there being a better way.
+*  Jelle feels the need to put his powers to good use, to help people out, as he feels like not using them would be a waste. This is for many of his heroic deeds the driving force. Despite this, he often feels guilty for the people he might have killed, thinking the amount of deaths could have been less or there could be a better way.
 
 ## Miccelaneous
 ### Inspired by

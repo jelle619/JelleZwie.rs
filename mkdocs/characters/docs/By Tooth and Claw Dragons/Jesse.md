@@ -1,5 +1,6 @@
 # Jesse
-**This character is going to get revamped soon!**
+!!! warning
+    This character is going to get revamped soon!
 
 Gender | Male
 Item(s) | Shifting Gene
