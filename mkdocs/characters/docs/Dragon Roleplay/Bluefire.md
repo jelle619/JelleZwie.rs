@@ -132,20 +132,14 @@ When Bluefire is breathing fire, shoot a stream of water into his mouth. The wat
 ### Alchemy
 Bluefire knows some alchemy, which he can use to brew potions that might be useful in certain cases.
 
-## Current situation
-Bluefire recently moved to Felnova and does fire-breath performances for a living. Though he has quite a large home, he lives there alone, hoping to find somebody to share it with someday.
-
-### Fire-breath performer
-As a fire-breath performer, Bluefire uses his blue fire ability to create a beautiful spectacle of flames. By throttling his fire breath, he can, besides blue fire, also create violet, red, orange and yellow fire. He uses fire magic to make his performances ever so slightly more gorgeous and clever alchemy tricks to make the scene a bit more extravagant. This, ultimately, achieves a similar effect to firework, but Bluefire rarely uses this to refer to his performances as it's considered demonic, originating from Kurai.
-
-The job pays quite well, as his performances are quite one of a kind. Though he does not inherently dislike it, he feels guilty for using his blue fire ability, a great breath weapon that can burn down everything in his path, for silly shows. He wishes to find a job where his abilities can be used for something meaningful, where he could actually change things for the better and where he can reach the greatness of his ancestors.
-
 ## History
-A long time ago, one of Bluefire's ancestors was a servant of the darkness. He had been given special powers to serve them, including the ability to breathe his signature blue fire, a fire so hot that it could melt rock. No matter how much power he had been given to carry out their malicious deeds, the goodness in his heart was not corruptible. The destruction he was tasked to carry out put a dent in his self-esteem, but he refused to give up, to let the darkness win yet again, to let this all be for nothing. "No longer", he said, as it was time to end the dark lords' regime over the lands he held dear to his heart. "There is a way to be good again."
+A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them. He had been given special powers to serve them, including the ability to breathe his signature blue fire, a fire so hot that it could melt rock. No matter how much power he had been given to carry out their malicious deeds, the goodness in his heart was not corruptible. The destruction he was tasked to carry out put a dent in his self-esteem, but he refused to give up, to let the darkness win yet again, to let this all be for nothing. "No longer", he said, as it was time to end the dark lords' regime over the lands he held dear to his heart.
 
 With his newfound powers, he turned against them. It was a matter of time before others would join in his fight. All power he had been given backfired at them. The final blow: a blue flame that penetrated their red blaze.
 
 End to terror came, with him to mostly thank for it. His actions had been forgiven, for it was for a greater good. His power was his to keep, and with that, it was passed on from generation to generation.
+
+Nowadays, Bluefire's family controls the same land that was back then the dark lord's. By his inhabitants, his family is considered royal. They are beloved, but the continueing shortage is eating away at their reputation. Bluefire was sent to the surface to find a solution.
 
 ## Motives
 *  Bluefire, wants to break the notion that everyone who has connections to the dark is inherently evil, as he himself is connected to it through is ancestors. Others are quick to judge him because of this.
