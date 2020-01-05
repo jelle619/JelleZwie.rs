@@ -12,6 +12,8 @@ First or one name only | Bluefire | Blue
 First and last name | Jelle Bluefire | Jelle or Blue
 
 ## Artwork
+### Non-specific
+![Artwork of Bluefire](https://i.imgur.com/Rp6yIcx.png)
 ### By Tooth and Claw Dragons
 ![Bluefire as seen in By Tooth and Claw Dragons](https://i.imgur.com/X7fIwFc.gif)
 ### Minecraft
