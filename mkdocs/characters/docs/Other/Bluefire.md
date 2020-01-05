@@ -14,7 +14,9 @@ First and last name | Jelle Bluefire | Jelle or Blue
 ## Artwork
 ### Non-specific
 ![Artwork of Bluefire](https://i.imgur.com/Rp6yIcx.png)
+Artwork by [HypnoTheSerpentLord](https://www.deviantart.com/hypnotheserpentlord)
 ### By Tooth and Claw Dragons
 ![Bluefire as seen in By Tooth and Claw Dragons](https://i.imgur.com/X7fIwFc.gif)
+Artwork by [R8A-creations](https://www.deviantart.com/r8a-creations)
 ### Minecraft
 ![Bluefire as seen in Minecraft](https://i.imgur.com/8ukqYzv.png)
