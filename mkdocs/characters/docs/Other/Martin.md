@@ -13,6 +13,10 @@
     <td>Early adulthood</td>
   </tr>
   <tr>
+    <th>Height/Length/Width</th>
+    <td>Higher than average/Longer than average/Wider than average.</td>
+  </tr>
+  <tr>
     <th>Element</th>
     <td>Electricity</td>
   </tr>
@@ -22,30 +26,62 @@
   </tr>
   <tr>
     <th>Skin colour on the belly</th>
-    <td>Yellow (and the contrast of the skin colour is faded away)</td>
+    <td>Yellow (because there is a contrast between light orange and yellow, the edge of both colours will fade. So the contrast is faded.)</td>
   </tr>
   <tr>
-    <th>Hair on head colour</th>
-    <td>Orange with a little bit of a yellow tint</td>
+    <th>Surface belly</th>
+    <td>Smooth</td>
+  </tr>
+  <tr>
+    <th>Hair colour on the head and belly, however his belly is mostly bold (so just a few hairs)</th>
+    <td>Between orange and yellow</td>
   </tr>
   <tr>
     <th>Eye colour</th>
-    <td>Dark blue which fades to the pupil to dark green</td>
+    <td>Dark blue which fades into black because of the pupil</td>
   </tr>
   <tr>
     <th>Fin colour</th>
-    <td>Fade to darker shade of blue with light blue in-between</td>
+    <td>Light blue</td>
+  </tr>
+  <tr>
+    <th>Wings colour</th>
+    <td>Darker orange</td>
+  </tr>
+  <tr>
+    <th>Wings surface</th>
+    <td>Smooth</td>
   </tr>
   <tr>
     <th>Paw colour</th>
-    <td>Fades to yellow-orange</td>
+    <td>Fades from yellow (belly) to light orange again. Later it fades to red because of the claws.</td>
   </tr>
   <tr>
-    <th>Nail colour</th>
+    <th>Nail and teeth colour</th>
     <td>White</td>
+  </tr>
+   <tr>
+    <th>Horns colour</th>
+    <td>Brown</td>
+  </tr>
+  <tr>
+    <th>Horns form</th>
+    <td>Straight</td>
   </tr>
   <tr>
     <th>Claw colour</th>
-    <td>Red</td>
+    <td>The claws fade from light orange to red (but the nails themselve white)</td>
+  </tr>
+  <tr>
+    <th>Claw length/form</th>
+    <td>Sharp but small</td>
+  </tr>
+  <tr>
+    <th>Fighting technique</th>
+    <td>Unexpected planned attacks. In case of emergency: chop the enemy's head off. </td>
+  </tr>
+  <tr>
+    <th>Link for inspiration</th>
+    <td>https://www.deviantart.com/lyraina/art/Tiny-Autumn-Dragon-719579185 </td>
   </tr>
 </table>
