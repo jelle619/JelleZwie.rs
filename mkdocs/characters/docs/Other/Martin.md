@@ -1,4 +1,9 @@
 # Martin
+
+General description
+
+Martin is a friendly, but a curious dragon. Whenever he gets to someone he doesn't really like, he just deals with it. However, when that organism is really in his way, he will carefully plan a way to get rid of that organism. His skin colour is light orange with some tints of yellow. The yellow colour occurs due to his hair. His eyes are blue and it looks like they can penetrate everybody, but at first glance, they look very familiar for everyone. Moreover, he has two fairly straight horns. The tail's end is slightly redder than his skin colour because he once burned the end of his tail. In addition, his belly is yellow with a few orange-yellow hairs. The wings are darker orange and smooth as well. He is a western dragon, that means that he has wings and six limbs.
+
 <table>
   <tr>
     <th>Gender</th>
@@ -51,6 +56,10 @@
   <tr>
     <th>Wings surface</th>
     <td>Smooth</td>
+  </tr>
+   <tr>
+    <th>Tail</th>
+    <td>Smooth and the same colour as his skin. However, the tip of the tail is slightly redder than the skin colour.</td>
   </tr>
   <tr>
     <th>Paw colour</th>
