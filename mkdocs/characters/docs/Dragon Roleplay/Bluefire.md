@@ -53,10 +53,11 @@
   </tr>
 </table>
 
-## Artwork
+## Appearance
 ![Bluefire](https://i.imgur.com/X7fIwFc.gif)
 
-## Personaility
+A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. The horns on his head point straight backwards. He has a tiny horn on his nose. Due to the sharp contrast between the horns/teeth/claws and his skin, they appear very white. The inside of his wings is grey, with his plated belly being the same colour. He wears decorative bandages around his arms/legs.
+
 ## Personaility
 *  Intelligent
 *  Eager
@@ -85,9 +86,6 @@ None at the moment.
   </tr>
 </table>
 -->
-
-## Appearance
-A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. The horns on his head point straight backwards. He has a tiny horn on his nose. Due to the sharp contrast between the horns/teeth/claws and his skin, they appear very white. The inside of his wings is grey, with his plated belly being the same colour. He wears decorative bandages around his arms/legs.
 
 ## Abilities
 ### Blue fire
