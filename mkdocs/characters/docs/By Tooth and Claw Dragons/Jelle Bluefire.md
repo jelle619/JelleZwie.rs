@@ -62,11 +62,12 @@
 ![Jelle Bluefire](https://i.imgur.com/X7fIwFc.gif)
 
 ## Personaility
-*  Intelligent and eager
+*  Intelligent
+*  Eager
 *  Rational
-*  Often under- or overestimates his capabilities
+*  Underestimates himself
 *  Forgiving
-*  Awkward around new people
+*  Awkward
 *  Calm
 *  Ambitious
 
