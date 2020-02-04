@@ -57,11 +57,13 @@
 ![Bluefire](https://i.imgur.com/X7fIwFc.gif)
 
 ## Personaility
-*  Intelligent and eager
+## Personaility
+*  Intelligent
+*  Eager
 *  Rational
-*  Often under- or overestimates his capabilities
+*  Underestimates himself
 *  Forgiving
-*  Awkward around new people
+*  Awkward
 *  Calm
 *  Ambitious
 
