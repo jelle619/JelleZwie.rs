@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th>Species</th>
-    <td>Dragon; Easters</td>
+    <td>Dragon; Eastern</td>
   </tr>
   <tr>
     <th>Gender</th>
