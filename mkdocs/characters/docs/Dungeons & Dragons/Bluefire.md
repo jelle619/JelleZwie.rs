@@ -1,9 +1,5 @@
 # Bluefire
 
-!!! warning
-    This character sheet contains homebrew content. Ask your Dungeon Master whether he approves the use of homebrew before using it.
+To view this character entry, please follow [this link](https://www.icloud.com/pages/0XUUbFGWZF2uEBSgQx7ngQZBQ).
 
-Coming soon!
-
-## Copyright
-The character sheet is TM & © 2014 Wizards of the Coast LLC. The contents within are subject to the copyright as described [here](/characters/#copyright).
+<script type="text/javascript">window.location.href = "https://www.icloud.com/pages/0XUUbFGWZF2uEBSgQx7ngQZBQ"</script>
