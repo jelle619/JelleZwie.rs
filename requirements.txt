@@ -1,2 +1,4 @@
+node
+npm
 mkdocs
 mkdocs-material
