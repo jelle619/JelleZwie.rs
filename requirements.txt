@@ -1,3 +1,2 @@
---upgrade pip
 mkdocs
-mkdocs-material
+mkdocs-material==4.6.0
