@@ -80,10 +80,10 @@ A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Ho
 ### Blue fire
 The ability to breathe a special kind of fire so hot it can easily melt rock. Bluefire's skin offers natural resistance to this kind of fire as to not burn himself. He inhabited this from his ancestors. Rarely does one of the bloodline posses this ability despite carrying it.
 
-### Vuurzee
-Vuurzee, "sea of fire", is Bluefire's most well guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
+### Corruption
+Bluefire's corrupted form is his most well-guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
 
-His claws, teeth, and horns elongate, sharpen and whiten. His eyes glow more than usual and his pupils become invisible. His scales and belly plates become pointier, sawblade-like, and veins across his body become visible, radiating the same colour as his eyes.
+His claws, teeth, and horns elongate, sharpen and whiten. His eyes glow more than usual and his pupils become invisible. His scales and belly plates become pointier, more sawblade-like. Some of his veins may become visible as they radiate blue.
 
 He is stronger and ever so slightly taller in this form. His senses become more sensitive and his blue fire ability is greatly enhanced, being able to breathe nearly limitless quantities of it and the smoke coming from the flames being slightly poisonous. A longing for destruction and blood, which he may go as far to consume, fueling him. He can barely keep friend and foe apart. Any bit of his calmness or tenderness disappears, being replaced with utter terror until there's nothing left. It's incredibly difficult to calm him down in this form, let alone control it.
 
