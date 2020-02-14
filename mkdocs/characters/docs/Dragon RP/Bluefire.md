@@ -1,6 +1,6 @@
 # Bluefire
 !!! warning
-    This character is based on Bluefire from By Tooth and Claw Dragons. It still has not been fully adopted for use in Dragon Roleplay. As such, it is a work in progress.
+    This character has not been fully adopted for use in Dragon RP. As such, it is a work in progress.
 
 <table>
   <tr>
@@ -69,27 +69,16 @@ A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Ho
 *  Ambitious
 
 ## Relationships
-None at the moment.
-<!--
 <table>
   <tr>
-    <th>Fyrendrang</th>
+    <th>Beeroux</th>
     <td>Acquaintance</td>
-  </tr>
-  <tr>
-    <th>Nirn</th>
-    <td>Acquaintance</td>
-  </tr>
-  <tr>
-    <th>Thanatos</th>
-    <td>Teacher</td>
   </tr>
 </table>
--->
 
 ## Abilities
 ### Blue fire
-The ability, also called blue flame, to breathe a special kind of blue fire so hot it can easily melt rock. As such, Bluefire's skin offers natural resistance to this kind of fire as to not burn himself. He inhabited from his ancestors. Rarely does one of the bloodline posses this ability despite carrying it.
+The ability to breathe a special kind of fire so hot it can easily melt rock. Bluefire's skin offers natural resistance to this kind of fire as to not burn himself. He inhabited this from his ancestors. Rarely does one of the bloodline posses this ability despite carrying it.
 
 ### Vuurzee
 Vuurzee, "sea of fire", is Bluefire's most well guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
@@ -108,7 +97,7 @@ The stages will play out similarly in reverse when reverting back to his normal 
 His night vision allows him to perceive his surroundings even in the darkest of conditions. He can also scare away predators with his glowing eyes which, in the dark, appear ever so slightly menacing.
 
 ### Crafty hands
-Dexterous hands allow him to handle objects with more ease compared to other dragons. Bluefire is also able to stand and walk on just his two hind feet.
+Dexterous hands allow him to handle objects with more ease compared to other dragons. Bluefire is also able to stand and walk on just his two hind feet if he wanted to, at the cost of reduced speed.
 
 ### Soaring dragon
 Bluefire can use his wings to fly.
@@ -119,25 +108,12 @@ Bluefire can use his sharp claws to deal out devastating attacks in battle.
 ### Magic
 Bluefire is skilled in both fire and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
 
-## Strengths/Weaknesses
-Own Elements | Strong Against | Weak Against
---- | --- | ---
-![Fire](https://i.imgur.com/kjSPOEA.png) | ![Air](https://i.imgur.com/0pPDMVG.png) ![Earth](https://i.imgur.com/e8reMNY.png) | ![Water](https://i.imgur.com/YHvleTt.png) ![Ice](https://i.imgur.com/lsfH3eA.png)
-![Dark](https://i.imgur.com/dsxwIQY.png) | ![Light](https://i.imgur.com/btQSr52.png) |
-
-### Biggest weakness
-When Bluefire is breathing fire, shoot a stream of water into his mouth. The water needs to be cold and the stream must be strong as to not evaporate or get blown away by Bluefire's breath. When successful, you will have disabled him for a moment, leaving him open for attack.
-
 ## Skills
 ### Alchemy
 Bluefire knows some alchemy, which he can use to brew potions that might be useful in certain cases.
 
 ## History
-A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them. He had been given special powers to serve them, including the ability to breathe his signature blue fire, a fire so hot that it could melt rock. No matter how much power he had been given to carry out their malicious deeds, the goodness in his heart was not corruptible. The destruction he was tasked to carry out put a dent in his self-esteem, but he refused to give up, to let the darkness win yet again, to let this all be for nothing. "No longer", he said, as it was time to end the dark lords' regime over the lands he held dear to his heart.
-
-With his newfound powers, he turned against them. It was a matter of time before others would join in his fight. All power he had been given backfired at them. The final blow: a blue flame that penetrated their red blaze.
-
-End to terror came, with him to mostly thank for it. His actions had been forgiven, for it was for a greater good. His power was his to keep, and with that, it was passed on from generation to generation.
+A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
 
 Nowadays, Bluefire's family controls the same land that was back then the dark lord's. By his inhabitants, his family is considered royal. They are beloved, but the continueing shortage is eating away at their reputation. Bluefire was sent to the surface to find a solution.
 
