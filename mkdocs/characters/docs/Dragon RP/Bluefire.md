@@ -115,7 +115,7 @@ Bluefire knows some alchemy, which he can use to brew potions that might be usef
 ## History
 A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
 
-Nowadays, Bluefire's family controls the same land that was back then the dark lord's. By his inhabitants, his family is considered royal. They are beloved, but the continueing shortage is eating away at their reputation. Bluefire was sent to the surface to find a solution.
+Nowadays, Bluefire's family controls the same land that was back then the dark lord's. By its inhabitants, his family is considered royal. They are beloved, but the continueing shortage is eating away at their reputation. Bluefire was sent to the surface to find a solution.
 
 ## Motives
 *  Bluefire, wants to break the notion that everyone who has connections to the dark is inherently evil, as he himself is connected to it through is ancestors. Others are quick to judge him because of this.
@@ -128,7 +128,6 @@ Nowadays, Bluefire's family controls the same land that was back then the dark l
 *  The Elder Scrolls V: Skyrim ([Steam](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/))
 *  Leonidas ([Bakugan Wiki](https://bakugan.wiki/wiki/Leonidas))
 *  Charizard X ([Pokémon](https://www.pokemon.com/uk/pokedex/charizard))
-
 
 ### Credits
 *  Artwork (c) R8A-creations ([DeviantArt](https://www.deviantart.com/r8a-creations))
