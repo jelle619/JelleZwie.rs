@@ -1,4 +1,3 @@
-# Welcome to Jelle's Character Directory
 This is a character directory site which contains a variety of characters. Use the menu bar to navigate around the site.
 
 !!! warning
