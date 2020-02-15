@@ -1,3 +1,8 @@
 .md-footer-nav {
   visibility: hidden;
 }
+
+md-source__facts {
+  visibility: hidden;
+  display: none;
+}
