@@ -2,7 +2,7 @@
   visibility: hidden;
 }
 
-md-source__facts {
+.md-source__facts {
   visibility: hidden;
   display: none;
 }
