@@ -1,7 +1,4 @@
 # Sjaak
-!!! warning
-    This character entry has yet to be finished.
-
 <table>
   <tr>
     <th>Species</th>
@@ -14,7 +11,6 @@
 </table>
 
 ## Appearance
-
 <table>
   <tr>
     <th>Belly</th>
