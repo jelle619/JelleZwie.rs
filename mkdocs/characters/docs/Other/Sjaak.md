@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <th>Horns</th>
-    <td>Lightning-shaped</td>
+    <td>Yellow, lightning-shaped</td>
   </tr>
   <tr>
     <th>Hair</th>
