@@ -1,6 +1,6 @@
 # Bluefire
 !!! warning
-    This character has not been fully adopted for use in Dragon RP. As such, it is a work in progress.
+    This character is a work in progress.
 
 <table>
   <tr>
