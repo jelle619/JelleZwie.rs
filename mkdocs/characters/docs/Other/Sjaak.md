@@ -25,15 +25,15 @@
     <td>Blue</td>
   </tr>
   <tr>
-    <th>Horns/th>
+    <th>Horns</th>
     <td>Lightning-shaped</td>
   </tr>
   <tr>
-    <th>Hair/th>
+    <th>Hair</th>
     <td>Has manes and hair running from the back to the tail</td>
   </tr>
   <tr>
-    <th>Claws/th>
+    <th>Claws</th>
     <td>White-/Ivory-coloured</td>
   </tr>
 </table>
