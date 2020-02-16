@@ -30,10 +30,14 @@
   </tr>
   <tr>
     <th>Hair</th>
-    <td>Has manes and hair running from the back to the tail</td>
+    <td>Dark blue, has manes and hair running from the back to the tail</td>
   </tr>
   <tr>
     <th>Claws</th>
     <td>White-/Ivory-coloured</td>
+  </tr>
+  <tr>
+    <th>Eyes</th>
+    <td>Red</td>
   </tr>
 </table>
