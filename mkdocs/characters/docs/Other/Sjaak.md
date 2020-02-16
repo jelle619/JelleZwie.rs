@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <th>Horns</th>
-    <td>Yellow, lightning-shaped</td>
+    <td>Stark white in colour, lightning-shaped</td>
   </tr>
   <tr>
     <th>Hair</th>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <th>Claws</th>
-    <td>White-/Ivory-coloured</td>
+    <td>Ivory</td>
   </tr>
   <tr>
     <th>Eyes</th>
