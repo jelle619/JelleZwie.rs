@@ -1,6 +1,6 @@
 # Myrix
 !!! warning
-    This character has not yet been fully adopted for use in Dragon Roleplay. As such, it is a work in progress.
+    This character is a work-in-progress. It is not ready to be used yet.
 
 <table>
   <tr>
