@@ -69,12 +69,7 @@ A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Ho
 *  Ambitious
 
 ## Relationships
-<table>
-  <tr>
-    <th>Beeroux</th>
-    <td>Acquaintance</td>
-  </tr>
-</table>
+None at the moment.
 
 ## Abilities
 ### Blue fire
