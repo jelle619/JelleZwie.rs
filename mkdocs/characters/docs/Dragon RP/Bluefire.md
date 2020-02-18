@@ -112,6 +112,9 @@ Bluefire is skilled in both fire and dark magic, the first one more so than the 
 ### Alchemy
 Bluefire knows some alchemy, which he can use to brew potions that might be useful in certain cases.
 
+## Weaknesses
+Bluefire is weak against water (and ice) and light magic.
+
 ## History
 A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
 
