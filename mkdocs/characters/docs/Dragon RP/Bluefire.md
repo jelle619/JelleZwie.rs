@@ -99,7 +99,7 @@ Bluefire is skilled in both fire and dark magic, the first one more so than the 
 
 Own Attributes | Strong Against | Weak Against
 --- | --- | ---
-Fire | Air, flora | Water, ice
+Fire | Air and flora | Water and ice
 Dark | Light | Light
 
 ## Skills
