@@ -82,12 +82,6 @@ His claws, teeth, and horns elongate, sharpen and whiten. His eyes glow more tha
 
 He is stronger and ever so slightly taller in this form. His senses become more sensitive and his blue fire ability is greatly enhanced, being able to breathe nearly limitless quantities of it and the smoke coming from the flames being slightly poisonous. A longing for destruction and blood, which he may go as far to consume, fueling him. He can barely keep friend and foe apart. Any bit of his calmness or tenderness disappears, being replaced with utter terror until there's nothing left. It's incredibly difficult to calm him down in this form, let alone control it.
 
-#### Stages
-Assuming his Vuurzee form takes place in two major stages:
- 1.  Irregular heavy breathing: Bluefire can still be stopped from assuming his other form when calmed down.
- 2.  Monstrous roar: Bluefire is in the beginning stages of assuming his other form. This can no longer be prevented.
-The stages will play out similarly in reverse when reverting back to his normal form.
-
 ### Eyes of darkness
 His night vision allows him to perceive his surroundings even in the darkest of conditions. He can also scare away predators with his glowing eyes which, in the dark, appear ever so slightly menacing.
 
@@ -103,12 +97,14 @@ Bluefire can use his sharp claws to deal out devastating attacks in battle.
 ### Magic
 Bluefire is skilled in both fire and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
 
+Own Attributes | Strong Against | Weak Against
+--- | --- | ---
+Fire | Air, flora | Water, ice
+Dark | Light |
+
 ## Skills
 ### Alchemy
 Bluefire knows some alchemy, which he can use to brew potions that might be useful in certain cases.
-
-## Weaknesses
-Bluefire is weak against water (and ice) and light magic.
 
 ## History
 A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
