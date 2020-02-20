@@ -106,6 +106,8 @@ Dark | Light | Light
 ### Alchemy
 Bluefire knows some alchemy, which he can use to brew potions that might be useful in certain cases.
 
+### Technologically adept
+Spending time of the overworld with the humans gave him a chance to become familiar with technology. He is able to infiltrate systems and write software to achieve his goals.
 ## History
 A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
 
