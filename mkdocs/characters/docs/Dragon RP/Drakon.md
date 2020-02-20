@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <th>Alignment</th>
-    <td>Neutral evil</td>
+    <td>Neutral evil (against otherkins), Neutral good (towards reds)</td>
   </tr>
 </table>
 
@@ -21,14 +21,19 @@
 A western dragon with a fierce red skin and green eyes. He has multiple white branching horns on his head pointing backwards, organically curling just a little bit. Furthermore, he has brown hair following his curvature until the tip of his tail. His belly is plated, bearing an almost-white sand-like colour.
 
 ## Personality
-*  Sympathetic
+*  Sympathetic towards those he trusts
 *  Clumsy
-*  Persuasive
+*  Persuasive/intimidative
 *  Eager
-*  Relaxed
+*  Stoic  
+
+## Skills
+* Frightening
+* Light magic
+* Chaoticly organized
 
 ## Backstory
-He used to be part of a communist union, but after it fell apart he lost all hope in this world and now tries to avenge it.
+He used to be part of a red union, but after it fell apart he lost all hope in the world and now tries to avenge those that were responsible for the collapse.
 
 ## Current situation 
 Going around the world, hopelessly avenging anyone opposing his 'iron' fist to horde as much as possible. He tries to hord as much as possible to wait for the (inevitable) revolution to come back around, with the intent to kickstart it with massive wealth.
