@@ -120,7 +120,7 @@ Nowadays, Bluefire's family controls the same land that was back then the dark l
 ## Miccelaneous
 ### Inspired by
 *  Giga Bowser ([Super Mario Wiki](https://www.mariowiki.com/Giga_Bowser))
-*  Drakenkoningin ([Amazon](https://amzn.to/2MZhTNA))
+*  Drakenkoningin (An Janssens)
 *  The Elder Scrolls V: Skyrim ([Steam](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/))
 *  Leonidas ([Bakugan Wiki](https://bakugan.wiki/wiki/Leonidas))
 *  Charizard X ([Pokémon](https://www.pokemon.com/uk/pokedex/charizard))
