@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <th>Signature</th>
-    <td>[![Signature](https://i.imgur.com/TlAh41o.png)](https://i.imgur.com/PTMziC2.png)</td>
+    <td><a href="https://i.imgur.com/PTMziC2.png"><img src="https://i.imgur.com/TlAh41o.png"></a></td>
   </tr>
 </table>
 
