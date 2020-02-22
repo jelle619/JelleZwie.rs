@@ -1,6 +1,4 @@
 # Bluefire
-!!! warning
-    This character is a work in progress.
 
 <table>
   <tr>
@@ -113,6 +111,8 @@ Spending time of the overworld with the humans gave him a chance to become famil
 A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
 
 Nowadays, Bluefire's family controls the same land that was back then the dark lord's. By its inhabitants, his family is considered royal. They are beloved, but the continueing shortage is eating away at their reputation. Bluefire was sent to the surface to find a solution.
+
+He blended in amongst all the humans with a human disguise that continuesly appears older at a pace that of the human. He followed human education and bears the advantages of it.
 
 ## Motives
 *  Bluefire, wants to break the notion that everyone who has connections to the dark is inherently evil, as he himself is connected to it through is ancestors. Others are quick to judge him because of this.
