@@ -114,10 +114,6 @@ Nowadays, Bluefire's family controls the same land that was back then the dark l
 
 He blended in amongst all the humans with a human disguise that continuesly appears older at a pace that of the human. He followed human education and bears the advantages of it.
 
-## Motives
-*  Bluefire, wants to break the notion that everyone who has connections to the dark is inherently evil, as he himself is connected to it through is ancestors. Others are quick to judge him because of this.
-*  Bluefire feels the need to put his powers to good use, to help people out, as he feels like not using them would be a waste. This is for many of his heroic deeds the driving force. Despite this, he often feels guilty for the people he might have killed, thinking the amount of deaths could have been less or a better way having been possible.
-
 ## Miccelaneous
 ### Inspired by
 *  Giga Bowser ([Super Mario Wiki](https://www.mariowiki.com/Giga_Bowser))
