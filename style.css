@@ -84,6 +84,7 @@ code {
 
 body > div {
   margin: 50px 10vw  50px 10vw;
+  scroll-margin-top: 25px;
 }
 
 @media (max-width: 960px) {
