@@ -11,4 +11,4 @@
 </table>
 
 ## Artwork
-![Reference sheet of Blue Moon](https://i.imgur.com/kwc5nfk.jpg)
+![Reference sheet of Blue Moon](https://i.imgur.com/kum1YDg.jpg)
