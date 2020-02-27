@@ -102,7 +102,7 @@ Bluefire can use his sharp claws to deal out devastating attacks in battle.
 ### Magic
 Bluefire is skilled in both fire and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
 
-Own Attributes | Strong Against | Weak Against
+Own Elements | Strong Against | Weak Against
 --- | --- | ---
 Fire | Air and flora | Water and ice
 Dark | Light | Light
