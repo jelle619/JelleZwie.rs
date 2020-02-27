@@ -124,4 +124,3 @@ He blended in amongst all the humans with a human disguise that continuesly appe
 
 ### Credits
 *  Artwork (c) R8A-creations ([DeviantArt](https://www.deviantart.com/r8a-creations))
-*  Sprites (c) By Tooth and Claw Dragons ([attributions](https://btacdragons.com/credits.php))
