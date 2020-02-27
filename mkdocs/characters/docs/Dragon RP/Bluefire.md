@@ -58,12 +58,6 @@ A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Ho
 
 ## Personaility
 
-!!! quote ""
-    Everybody likes to get taken for turns
-    to see how bright the fire inside of us burns.
-    And everybody wants to get evil tonight
-    but all good devils masquerade under the light.
-
 *  Intelligent
 *  Eager
 *  Rational
@@ -72,6 +66,12 @@ A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Ho
 *  Awkward
 *  Calm
 *  Ambitious
+
+!!! quote ""
+    Everybody likes to get taken for turns,<br>
+    to see how bright the fire inside of us burns.<br>
+    And everybody wants to get evil tonight<br>
+    but all good devils masquerade under the light.
 
 ## Relationships
 None at the moment.
