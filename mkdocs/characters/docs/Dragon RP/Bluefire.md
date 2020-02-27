@@ -78,7 +78,7 @@ None at the moment.
 
 ## Abilities
 ### Blue fire
-The ability to breathe a special kind of fire so hot it can easily melt rock. Bluefire's skin offers natural resistance to this kind of fire as to not burn himself. He inhabited this ability from his ancestors. Even though the bloodline carries it, only when none with this ability are alive will the next newborn get to posses this ability.
+The ability to breathe a special kind of fire so hot it can easily melt rock. Bluefire's skin offers natural resistance to heat as to not burn himself. He inhabited this ability from his ancestors. Even though the bloodline carries it, only when none with this ability are alive will the next newborn get to posses this ability.
 
 ### Corruption
 Bluefire's corrupted form is his most well-guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
