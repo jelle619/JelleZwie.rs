@@ -57,6 +57,14 @@
 A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Horns among the back slightly following its curvature until the tail, where they become more rounded and point upwards. The horns on his head point straight backwards. He has a tiny horn on his nose. Due to the sharp contrast between the horns/teeth/claws and his skin, they appear very white. The inside of his wings is grey, with his plated belly being the same colour. He wears decorative bandages around his arms/legs.
 
 ## Personaility
+    
+
+!!! quote ""
+    Everybody likes to get taken for turns,
+    to see how bright the fire inside of us burns.
+    And everybody wants to get evil tonight
+    but all good devils masquerade under the light.
+
 *  Intelligent
 *  Eager
 *  Rational
