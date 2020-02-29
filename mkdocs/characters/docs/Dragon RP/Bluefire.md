@@ -83,9 +83,9 @@ The ability to breathe a special kind of fire so hot it can easily melt rock. Bl
 ### Corruption
 Bluefire's corrupted form is his most well-guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
 
-His claws, teeth, and horns elongate, sharpen and whiten. His eyes glow more than usual and his pupils become invisible. His scales and belly plates become pointier, more sawblade-like. Some of his veins may become visible as they radiate blue.
+<!--His claws, teeth, and horns elongate, sharpen and whiten. His eyes glow more than usual and his pupils become invisible. His scales and belly plates become pointier, more sawblade-like. Some of his veins may become visible as they radiate blue.-->
 
-He is stronger and ever so slightly taller in this form. His senses become more sensitive and his blue fire ability is greatly enhanced, being able to breathe nearly limitless quantities of it and the smoke coming from the flames being slightly poisonous. A longing for destruction and blood, which he may go as far to consume, fueling him. He can barely keep friend and foe apart. Any bit of his calmness or tenderness disappears, being replaced with utter terror until there's nothing left. It's incredibly difficult to calm him down in this form, let alone control it.
+<!--He is stronger and ever so slightly taller in this form. His senses become more sensitive and his blue fire ability is greatly enhanced, being able to breathe nearly limitless quantities of it and the smoke coming from the flames being slightly poisonous. A longing for destruction and blood, which he may go as far to consume, fueling him. He can barely keep friend and foe apart. Any bit of his calmness or tenderness disappears, being replaced with utter terror until there's nothing left. It's incredibly difficult to calm him down in this form, let alone control it.-->
 
 ### Eyes of darkness
 His night vision allows him to perceive his surroundings even in the darkest of conditions. He can also scare away predators with his glowing eyes which, in the dark, appear ever so slightly menacing.
