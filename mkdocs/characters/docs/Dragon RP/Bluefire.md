@@ -69,7 +69,7 @@ A western dragon with a scaly charcoal-black skin and glowing deep blue eyes. Ho
 
 !!! quote ""
     Everybody likes to get taken for turns,<br>
-    to see how bright the fire inside of us burns.<br>
+    to see how bright the fire inside of them burns.<br>
     And everybody thinks I'll turn evil tonight,<br>
     that I'm a devil masquerading under light.
 
