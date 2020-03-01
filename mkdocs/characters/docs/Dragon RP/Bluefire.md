@@ -81,7 +81,7 @@ None at the moment.
 The ability to breathe a special kind of fire so hot it can easily melt rock. Bluefire's skin offers natural resistance to heat as to not burn himself. He inhabited this ability from his ancestors. Even though the bloodline carries it, only when none with this ability are alive will the next newborn get to posses this ability.
 
 ### Corruption
-Bluefire's corrupted form is his most well-guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt him using corruption magic.
+Bluefire's corrupted form is his most well-guarded secret. It is a form in which he temporarily lets the darkness within him take control over his body. It's triggered by severe emotional stress (e.g. anxiety, fury, rage) or someone attempting to corrupt his mind using, for example, corruption magic.
 
 <!--His claws, teeth, and horns elongate, sharpen and whiten. His eyes glow more than usual and his pupils become invisible. His scales and belly plates become pointier, more sawblade-like. Some of his veins may become visible as they radiate blue.-->
 
