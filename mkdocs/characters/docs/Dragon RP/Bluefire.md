@@ -99,6 +99,9 @@ Bluefire can use his wings to fly.
 ### Sharp extravaganza
 Bluefire can use his sharp claws to deal out devastating attacks in battle.
 
+### Human form
+His human form allows him to disguise himself amongst the humans. He is able to use his draconic powers in this form, though they will be less powerful. Using them will expose some of his draconic features, making his disguise useless.
+
 ### Magic
 Bluefire is skilled in both fire and dark magic, the first one more so than the second one. Fire created by fire magic generally exerts the same blue colour as his fire breath.
 
@@ -112,7 +115,7 @@ Dark | Light | Light
 Bluefire knows some alchemy, which he can use to brew potions that might be useful in certain cases. He needs to prepare these beforehand.
 
 ### Technologically adept
-Spending time of the overworld with the humans gave him a chance to become familiar with technology. He is able to infiltrate systems and write software.
+Spending time of the overworld with the humans gave him a chance to become familiar with technology. Hacking and writing software is his specialty.
 
 ## Backstory
 A long time ago, one of Bluefire's ancestors became a servant of the darkness to protect his beloved ones from them in return for what he did to save the land and the people he held dear to his heart. 
