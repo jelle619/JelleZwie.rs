@@ -133,9 +133,7 @@ body > div {
 }
 
 #github > div {
-  height: 104px;
   width: 100%;
-  max-width: 702px;
   overflow-x: auto;
   direction: rtl;
 }
