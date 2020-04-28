@@ -98,7 +98,7 @@ body > div {
 #header {
   height: 100vh;
   width: 100%;
-  background: linear-gradient(slategrey, black);;
+  background: linear-gradient(slategrey, var(--background-color));;
   display: flex;
   flex-direction: column;
   justify-content: center;
