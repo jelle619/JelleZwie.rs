@@ -1,2 +1,0 @@
-# Rathkin
-**Coming soon!**
