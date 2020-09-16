@@ -48,6 +48,7 @@ try {
 }
 
 document.getElementById("about=time").innerHTML = localTime;
+console.log(localTime);
 
 // Contact
 
