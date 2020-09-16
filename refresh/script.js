@@ -12,7 +12,7 @@ function getServerTime(){
         xmlHttp = new XMLHttpRequest();
     }
     catch (err1) {
-        //IE
+        // Compatibility with Internet Explorer
         try {
             xmlHttp = new ActiveXObject('Msxml2.XMLHTTP');
         }
@@ -21,8 +21,7 @@ function getServerTime(){
                 xmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
             }
             catch {
-                //AJAX not supported, use CPU time
-                console.log("AJAX not supported");
+                // AJAX not supported
             }
         }
     }
@@ -42,16 +41,18 @@ try {
     } else if (typeof xmlHttp !== 'undefined') {
         localTime = new Date(serverTime).toLocaleString("en-GB", {timeZone: "Europe/Amsterdam"});
     } else if (typeof xmlHttp === 'undefined') {
-        localTime = new Date().toLocaleString("en-GB", {timeZone: "Europe/Amsterdam"}) + " (based on your device's set time)";
+        localTime = new Date().toLocaleString("en-GB", {timeZone: "Europe/Amsterdam"}) + " (based on your device's set time)"; // Set local time based on the user's system time if no server time is available
     }
 } catch {
     localTime = "Europe/Amsterdam";
 }
 
+document.getElementById("about=time").innerHTML = localTime;
+
 // Contact
 
 if (navigator.language.includes("nl")) {
-    document.querySelector("#contact select[name=\"language\"]").value = "dutch";
+    document.getElementById("contact-language").value = "dutch";
 }
 
 // Automatic form enlarger
